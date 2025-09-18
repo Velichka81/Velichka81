@@ -35,10 +35,9 @@ Interaktive Lernplattform für Grundlagen bis Fortgeschrittene (AE‑Fokus).
 - Tools & Praktiken: `Git/GitHub`, `VS Code`, `JetBrains Rider`, `Postman`, `Docker (basis)`, `CI/CD (grundlegend)`, `TDD`
 
 ## 🤝 Kontakt
-- LinkedIn: https://www.linkedin.com/in/DEIN-NAME
-- E‑Mail: mail@deine-domain.de
+- LinkedIn: https://www.linkedin.com/in/Velichka Atanasova
+- E‑Mail: velichka811@abv.bg
 - Standort: 📍 Stuttgart, Deutschland
 
 ---
 
-Kleiner Hinweis: Für ein GitHub Profil‑README lege ein Repository an, das genau so heißt wie dein Benutzername (z. B. `username/username`) und platziere diese `README.md` dort im Root.
