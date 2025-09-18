@@ -143,8 +143,8 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 			<strong><a href="https://github.com/Velichka81/learn-platform">📚 SkillForge (IT‑Lernplattform)</a></strong><br />
 			<sub>AE‑Fokus mit Quiz & Übungen, klare REST‑Schnittstellen.</sub><br />
 			<sub><em>PHP · JavaScript · SQL · REST · Backend/DB‑Design</em></sub><br/>
-			<img alt="Stars" src="https://img.shields.io/github/stars/Velichka81/learn-platform?style=flat-square&label=Stars" />
-			<img alt="License" src="https://img.shields.io/github/license/Velichka81/learn-platform?style=flat-square" />
+			<img alt="Stars" src="https://img.shields.io/github/stars/Velichka81/learn-platform?style=flat-square&cacheSeconds=43200" />
+			<img alt="License" src="https://img.shields.io/badge/license-TBD-lightgrey?style=flat-square" />
 			<img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
 		</td>
 	</tr>
