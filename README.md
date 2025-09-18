@@ -27,17 +27,17 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 
 <div align="center">
 
-<div style="display:inline-block;padding:12px 16px;border:1px solid #2a2a2a;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.015));box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+<div style="display:inline-block;padding:8px 10px;border:1px solid #2a2a2a;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.015));box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
-<table>
+<table style="border-collapse:collapse; margin:0;">
 	<tr>
-		<td align="left" width="50%">
+		<td align="left" width="50%" style="padding:0 8px;">
 		  <ul style="list-style:none; padding:0; margin:0;">
 		    <li>🧭 <a href="#kurzueberblick">Kurzüberblick</a></li>
 		    <li>🎯 <a href="#fokus">Fokusbereiche</a></li>
 		    <li>🛠️ <a href="#techstack">Tech‑Stack</a></li>
 		    <li>🚀 <a href="#projekte">Projekte (Auswahl)</a>
-		      <ul style="list-style:none; padding-left:1rem; margin:6px 0 0 0;">
+		      <ul style="list-style:none; padding-left:0.75rem; margin:6px 0 0 0;">
 		        <li>🎮 <a href="#arcadia">Project Arcadia</a></li>
 		        <li>🎵 <a href="#lyritune">LyriTune</a></li>
 		        <li>📚 <a href="#skillforge">SkillForge</a></li>
@@ -45,7 +45,7 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 		    </li>
 		  </ul>
 		</td>
-		<td align="left" width="50%">
+		<td align="left" width="50%" style="padding:0 8px;">
 		  <ul style="list-style:none; padding:0; margin:0;">
 		    <li>🎨 <a href="#grafikdesign">Grafikdesign – Galerie</a></li>
 		    <li>🌐 <a href="#webdesign">Webdesign – Galerie</a></li>
