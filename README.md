@@ -4,7 +4,7 @@
 
 # Willkommen auf meinem GitHub‑Profil 👋
 
-Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Development · Web (Frontend/Backend, PHP/JS/SQL) · Fullstack Development · C# · Java · Python · Grafikdesign
+Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Grafikdesign · Stuttgart
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Velichka81&style=for-the-badge&color=0e75b6)](https://github.com/Velichka81)
 [![Follow](https://img.shields.io/github/followers/Velichka81?logo=github&style=for-the-badge)](https://github.com/Velichka81?tab=followers)
@@ -24,6 +24,9 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 - Arbeitsweise: sauberer Code, testgetrieben, pragmatisch, nutzerzentriert
 
 ## 📚 Inhaltsverzeichnis
+
+<details open>
+	<summary><em>Inhalt anzeigen/ausblenden</em></summary>
 
 <div align="center">
 
@@ -61,6 +64,8 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 </div>
 
 </div>
+
+</details>
 
 <br />
 
@@ -113,26 +118,34 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 <table>
 	<tr>
 		<td width="33%" align="center">
-			<a href="Labyrinth-Echo-of-the-Shards/"><img src="assets/projects/thumb-arcadia.svg" width="260" alt="Project Arcadia Thumbnail" /></a>
+			<a href="Labyrinth-Echo-of-the-Shards/"><img src="assets/projects/thumb-arcadia.svg" width="260" alt="Project Arcadia Thumbnail" title="Project Arcadia – Unity/C#" /></a>
 			<br />
-			<strong>🎮 Project Arcadia</strong>&nbsp;<img alt="Featured" src="https://img.shields.io/badge/Featured-%E2%AD%90-FFD700?style=flat-square&labelColor=333&color=FFD700" />
+			<strong><a href="Labyrinth-Echo-of-the-Shards/">🎮 Project Arcadia</a></strong>&nbsp;<img alt="Featured" src="https://img.shields.io/badge/Featured-%E2%AD%90-FFD700?style=flat-square&labelColor=333&color=FFD700" />
 			<br />
 			<sub>Prozedurale Level, leichtgewichtiges ECS, Fokus auf Spielgefühl.</sub><br />
-			<sub><em>Unity · C# · ScriptableObjects · Prototyp/Vertical Slice</em></sub>
+			<sub><em>Unity · C# · ScriptableObjects · Prototyp/Vertical Slice</em></sub><br/>
+			<img alt="Status" src="https://img.shields.io/badge/status-prototype-blue?style=flat-square" />
+			<img alt="Unity" src="https://img.shields.io/badge/engine-Unity-000?style=flat-square&logo=unity&logoColor=white" />
+			<img alt="C#" src="https://img.shields.io/badge/lang-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 		</td>
 		<td width="33%" align="center">
-			<a href="#lyritune"><img src="assets/projects/thumb-lyritune.svg" width="260" alt="LyriTune Thumbnail" /></a>
+			<a href="#lyritune"><img src="assets/projects/thumb-lyritune.svg" width="260" alt="LyriTune Thumbnail" title="LyriTune – Text to Song (WIP)" /></a>
 			<br />
-			<strong>🎵 LyriTune (Text‑to‑Song)</strong><br />
+			<strong><a href="#lyritune">🎵 LyriTune (Text‑to‑Song)</a></strong><br />
 			<sub>Konvertiert Texte in Melodien; erste Audio‑Generierung integriert.</sub><br />
-			<sub><em>Python · Web (API/Frontend) · DSP · MVP in Arbeit</em></sub>
+			<sub><em>Python · Web (API/Frontend) · DSP · MVP in Arbeit</em></sub><br/>
+			<img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
+			<img alt="Python" src="https://img.shields.io/badge/lang-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 		</td>
 		<td width="33%" align="center">
-			<a href="https://github.com/Velichka81/learn-platform"><img src="assets/projects/thumb-skillforge.svg" width="260" alt="SkillForge Thumbnail" /></a>
+			<a href="https://github.com/Velichka81/learn-platform"><img src="assets/projects/thumb-skillforge.svg" width="260" alt="SkillForge Thumbnail" title="SkillForge – Learn Platform" /></a>
 			<br />
-			<strong>📚 SkillForge (IT‑Lernplattform)</strong><br />
+			<strong><a href="https://github.com/Velichka81/learn-platform">📚 SkillForge (IT‑Lernplattform)</a></strong><br />
 			<sub>AE‑Fokus mit Quiz & Übungen, klare REST‑Schnittstellen.</sub><br />
-			<sub><em>PHP · JavaScript · SQL · REST · Backend/DB‑Design</em></sub>
+			<sub><em>PHP · JavaScript · SQL · REST · Backend/DB‑Design</em></sub><br/>
+			<img alt="Stars" src="https://img.shields.io/github/stars/Velichka81/learn-platform?style=flat-square&label=Stars" />
+			<img alt="License" src="https://img.shields.io/github/license/Velichka81/learn-platform?style=flat-square" />
+			<img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
 		</td>
 	</tr>
 </table>
@@ -163,15 +176,15 @@ Lernplattform mit Themenfokus AE: Modulkonzept, Quiz‑Engine und saubere REST�
 <table>
 	<tr>
 		<td align="center">
-			<a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-1.svg" width="220" alt="Grafikdesign 1" /></a>
+            <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-1.svg" width="220" alt="Grafikdesign 1" title="Grafikdesign 1" /></a>
 			<br /><sub>Grafikdesign 1</sub>
 		</td>
 		<td align="center">
-			<a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-2.svg" width="220" alt="Grafikdesign 2" /></a>
+			<a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-2.svg" width="220" alt="Grafikdesign 2" title="Grafikdesign 2" /></a>
 			<br /><sub>Grafikdesign 2</sub>
 		</td>
 		<td align="center">
-			<a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-3.svg" width="220" alt="Grafikdesign 3" /></a>
+			<a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-3.svg" width="220" alt="Grafikdesign 3" title="Grafikdesign 3" /></a>
 			<br /><sub>Grafikdesign 3</sub>
 		</td>
 	</tr>
@@ -190,15 +203,15 @@ Lernplattform mit Themenfokus AE: Modulkonzept, Quiz‑Engine und saubere REST�
 <table>
 	<tr>
 		<td align="center">
-			<a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-1.svg" width="220" alt="Webdesign 1" /></a>
+			<a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-1.svg" width="220" alt="Webdesign 1" title="Webdesign 1" /></a>
 			<br /><sub>Webdesign 1</sub>
 		</td>
 		<td align="center">
-			<a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-2.svg" width="220" alt="Webdesign 2" /></a>
+			<a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-2.svg" width="220" alt="Webdesign 2" title="Webdesign 2" /></a>
 			<br /><sub>Webdesign 2</sub>
 		</td>
 		<td align="center">
-			<a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-3.svg" width="220" alt="Webdesign 3" /></a>
+			<a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-3.svg" width="220" alt="Webdesign 3" title="Webdesign 3" /></a>
 			<br /><sub>Webdesign 3</sub>
 		</td>
 	</tr>
@@ -224,8 +237,8 @@ Lernplattform mit Themenfokus AE: Modulkonzept, Quiz‑Engine und saubere REST�
 
 <div align="center">
 
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Velichka81&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velichka81&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Velichka81&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velichka81&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
 <img height="165" alt="Streak" src="https://streak-stats.demolab.com?user=Velichka81&theme=github-dark&hide_border=true" />
 
@@ -242,6 +255,8 @@ Lernplattform mit Themenfokus AE: Modulkonzept, Quiz‑Engine und saubere REST�
 
 [![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:velichka811@abv.bg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velichka-atanasova-32781a227)
+
+[![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Velichka81?tab=repositories)
 
 </div>
 
