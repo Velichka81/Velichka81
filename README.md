@@ -27,9 +27,9 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 
 <div align="center">
 
-<div style="display:inline-block;padding:8px 10px;border:1px solid #2a2a2a;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.015));box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+<div style="display:block;width:95%;max-width:1000px;margin:0 auto;padding:8px 10px;border:1px solid #2a2a2a;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.015));box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
-<table style="border-collapse:collapse; margin:0;">
+<table style="border-collapse:collapse;margin:0;width:100%;table-layout:auto;">
 	<tr>
 		<td align="left" width="50%" style="padding:0 8px;">
 		  <ul style="list-style:none; padding:0; margin:0;">

@@ -5,6 +5,7 @@ on:
     branches: ["**"]
   pull_request:
     branches: ["**"]
+  workflow_dispatch:
 
 jobs:
   lint:
@@ -45,4 +46,7 @@ jobs:
 
       - name: Hinweis bei keinen PHP-Dateien
         if: steps.files.outputs.files == ''
-        run: echo "Keine PHP-Dateien gefunden – überspringe Lint."
+        run: |
+          echo "Keine PHP-Dateien gefunden – überspringe Lint."
+          echo "## PHP Lint – übersprungen" >> $GITHUB_STEP_SUMMARY
+          echo "Keine PHP-Dateien im Repository gefunden. Workflow wurde übersprungen." >> $GITHUB_STEP_SUMMARY

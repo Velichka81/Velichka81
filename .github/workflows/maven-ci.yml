@@ -5,6 +5,7 @@ on:
     branches: ["**"]
   pull_request:
     branches: ["**"]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -51,3 +52,5 @@ jobs:
         if: steps.detect.outputs.present != 'true'
         run: |
           echo "Maven CI skipped: no pom.xml in repository."
+          echo "## Maven CI – übersprungen" >> $GITHUB_STEP_SUMMARY
+          echo "Kein pom.xml gefunden. Workflow wurde übersprungen." >> $GITHUB_STEP_SUMMARY

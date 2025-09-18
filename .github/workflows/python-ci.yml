@@ -5,6 +5,7 @@ on:
     branches: ["**"]
   pull_request:
     branches: ["**"]
+  workflow_dispatch:
 
 jobs:
   build-test:
@@ -71,3 +72,5 @@ jobs:
         if: steps.detect.outputs.has_py != 'true'
         run: |
           echo "Python CI skipped: no .py files in repository."
+          echo "## Python CI – übersprungen" >> $GITHUB_STEP_SUMMARY
+          echo "Keine Python-Dateien im Repository gefunden. Workflow wurde übersprungen." >> $GITHUB_STEP_SUMMARY
