@@ -205,17 +205,17 @@ Nachfolgend einige Eindrücke zu den Projekten. Jeweils ein Bild pro Zeile mit k
 ![Project Arcadia – Gameplay](assets/projects/thumb-arcadia.png "Project Arcadia – Gameplay")
 _Gameplay_
 
----
+<hr style="opacity:.25;margin:16px 0 20px;" />
 
 ![LyriTune – UI](assets/projects/thumb-lyritune.svg "LyriTune – UI")
 _UI_
 
----
+<hr style="opacity:.25;margin:16px 0 20px;" />
 
 ![SkillForge – Dashboard](assets/projects/thumb-skillforge.png "SkillForge – Dashboard")
 _Dashboard_
 
----
+<hr style="opacity:.25;margin:16px 0 20px;" />
 
 ![Zeiterfassung – Dashboard](assets/projects/thumb-zeiterfassung.png "Zeiterfassung – Dashboard")
 _Dashboard_
