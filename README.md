@@ -35,7 +35,7 @@ Interaktive Lernplattform für Grundlagen bis Fortgeschrittene (AE‑Fokus).
 - Tools & Praktiken: `Git/GitHub`, `VS Code`, `JetBrains Rider`, `Postman`, `Docker (basis)`, `CI/CD (grundlegend)`, `TDD`
 
 ## 🤝 Kontakt
-- LinkedIn: https://www.linkedin.com/in/VelichkaAtanasova
+- LinkedIn: https://www.linkedin.com/in/velichka-atanasova-32781a227
 - E‑Mail: velichka811@abv.bg
 - Standort: 📍 Stuttgart, Deutschland
 

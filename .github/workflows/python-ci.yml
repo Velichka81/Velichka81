@@ -8,6 +8,7 @@ on:
 
 jobs:
   build-test:
+    if: ${{ hashFiles('**/*.py') != '' }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -40,4 +41,11 @@ jobs:
 
       - name: Run tests with pytest
         run: |
-          pytest -q
+          code=0
+          pytest -q || code=$?
+          if [ "$code" -eq 5 ]; then
+            echo "Keine Tests gefunden (pytest exit code 5) – OK."
+            exit 0
+          else
+            exit "$code"
+          fi

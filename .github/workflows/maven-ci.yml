@@ -14,21 +14,40 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Detect Maven project (pom.xml)
+        id: detect
+        shell: bash
+        run: |
+          if find . -name pom.xml -type f -print -quit | grep -q .; then
+            echo "present=true" >> $GITHUB_OUTPUT
+            echo "Found pom.xml – proceeding with Maven build."
+          else
+            echo "present=false" >> $GITHUB_OUTPUT
+            echo "No pom.xml found – skipping Maven steps."
+          fi
+
       - name: Set up JDK
         uses: actions/setup-java@v4
+        if: steps.detect.outputs.present == 'true'
         with:
           distribution: 'temurin'
           java-version: '17'
           cache: 'maven'
 
       - name: Build with Maven (clean verify)
+        if: steps.detect.outputs.present == 'true'
         run: mvn -B -ntp clean verify
 
       - name: Upload surefire test reports (on failure)
-        if: failure()
+        if: steps.detect.outputs.present == 'true' && failure()
         uses: actions/upload-artifact@v4
         with:
           name: surefire-reports
           path: |
             **/target/surefire-reports/*
             **/target/failsafe-reports/*
+
+      - name: Skip summary
+        if: steps.detect.outputs.present != 'true'
+        run: |
+          echo "Maven CI skipped: no pom.xml in repository."
