@@ -39,6 +39,10 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 		    <li>🧭 <a href="#kurzueberblick">Kurzüberblick</a></li>
 		    <li>🎯 <a href="#fokus">Fokusbereiche</a></li>
 		    <li>🛠️ <a href="#techstack">Tech‑Stack</a></li>
+		  </ul>
+		</td>
+		<td align="left" style="padding:0 8px; vertical-align: top;">
+		  <ul style="list-style:none; padding:0; margin:0; white-space:nowrap;">
 		    <li>🚀 <a href="#projekte">Projekte (Auswahl)</a>
 		      <ul style="list-style:none; padding-left:0.75rem; margin:6px 0 0 0; white-space:nowrap;">
 		        <li>🎮 <a href="#arcadia">Project Arcadia</a></li>
@@ -58,7 +62,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 		  </ul>
 		</td>
 	</tr>
-  
+ 
  </table>
 
 </div>
