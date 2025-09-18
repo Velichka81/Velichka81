@@ -147,11 +147,11 @@
 
   <!-- 3D-Subtitel (dezente Extrusion) -->
   <g font-family="Nunito, Quicksand, Poppins, Segoe UI, Inter, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="#2E1065" opacity="0.35" transform="translate(2,2)">Fachinformatikerin (Umschulung) · Fullstack · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="#2E1065" opacity="0.25" transform="translate(1,1)">Fachinformatikerin (Umschulung) · Fullstack · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="url(#metalGrad)" stroke="#3B0764" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" filter="url(#textGlow)">Fachinformatikerin (Umschulung) · Fullstack · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="none" stroke="#3B0764" stroke-width="0.9" stroke-linejoin="round" stroke-linecap="round" opacity="0.16" filter="url(#softRound)">Fachinformatikerin (Umschulung) · Fullstack · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="url(#shineGrad)" opacity="0.34">Fachinformatikerin (Umschulung) · Fullstack · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="url(#shineGrad2)" opacity="0.24">Fachinformatikerin (Umschulung) · Fullstack · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="20" font-weight="600" fill="#2E1065" opacity="0.35" transform="translate(2,2)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="20" font-weight="600" fill="#2E1065" opacity="0.25" transform="translate(1,1)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="20" font-weight="600" fill="url(#metalGrad)" stroke="#3B0764" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" filter="url(#textGlow)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="20" font-weight="600" fill="none" stroke="#3B0764" stroke-width="0.9" stroke-linejoin="round" stroke-linecap="round" opacity="0.16" filter="url(#softRound)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="20" font-weight="600" fill="url(#shineGrad)" opacity="0.34">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="20" font-weight="600" fill="url(#shineGrad2)" opacity="0.24">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
   </g>
 </svg>
