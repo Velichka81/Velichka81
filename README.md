@@ -48,6 +48,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 		        <li>🎮 <a href="#arcadia">Project Arcadia</a></li>
 		        <li>🎵 <a href="#lyritune">LyriTune</a></li>
 		        <li>📚 <a href="#skillforge">SkillForge</a></li>
+		        <li>⏱️ <a href="#zeiterfassung">Zeiterfassung</a></li>
 		      </ul>
 		    </li>
 		  </ul>
@@ -156,6 +157,23 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 
 </div>
 
+<div align="center">
+
+<table>
+	<tr>
+		<td width="33%" align="center">
+			<a href="https://github.com/Velichka81/Zeiterfassung"><img src="assets/projects/thumb-zeiterfassung.svg" width="260" alt="Zeiterfassung Thumbnail" title="Zeiterfassung – Time Tracking" /></a>
+			<br />
+			<strong><a href="https://github.com/Velichka81/Zeiterfassung">⏱️ Zeiterfassung</a></strong><br />
+			<sub>Einfaches, klares Tool zur Erfassung von Arbeitszeiten.</sub><br />
+			<sub><em>PHP · JavaScript · SQL · REST</em></sub><br/>
+			<img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
+		</td>
+	</tr>
+</table>
+
+</div>
+
 ### <a id="arcadia"></a>🎮 Project Arcadia
 
 Ein experimenteller Unity‑Prototyp mit prozeduralen Leveln, leichtgewichtigem ECS‑Ansatz und Fokus auf präzises Spielgefühl. Ziel: saubere Architektur und schnelle Iteration.
@@ -171,6 +189,12 @@ Konvertiert kurze Texte in einfache Melodien. Erste DSP‑Bausteine und eine kle
 Lernplattform mit Themenfokus AE: Modulkonzept, Quiz‑Engine und saubere REST‑Schnittstellen. Aktuell entwerfe ich das Datenmodell und erste Endpunkte. Weitere Infos folgen.
 
 ➡️ Zum Repository: [SkillForge – Learn Platform](https://github.com/Velichka81/learn-platform)
+
+### <a id="zeiterfassung"></a>⏱️ Zeiterfassung
+
+Ein fokussiertes Tool zur Zeiterfassung mit übersichtlicher UI. Ziel: schnelle Eingabe, klare Auswertungen und einfache Exportmöglichkeiten.
+
+➡️ Zum Repository: [Zeiterfassung](https://github.com/Velichka81/Zeiterfassung)
 
 <a id="grafikdesign"></a>
 ## 🎨 Grafikdesign – Galerie
