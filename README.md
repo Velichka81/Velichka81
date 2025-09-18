@@ -118,7 +118,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 <table>
 	<tr>
 		<td width="33%" align="center">
-			<a href="Labyrinth-Echo-of-the-Shards/"><img src="assets/projects/thumb-arcadia.svg" width="260" alt="Project Arcadia Thumbnail" title="Project Arcadia – Unity/C#" /></a>
+			<a href="Labyrinth-Echo-of-the-Shards/"><img src="assets/projects/thumb-arcadia.png" width="260" alt="Project Arcadia Thumbnail" title="Project Arcadia – Unity/C#" /></a>
 			<br />
 			<strong><a href="Labyrinth-Echo-of-the-Shards/">🎮 Project Arcadia</a></strong>&nbsp;<img alt="Featured" src="https://img.shields.io/badge/Featured-%E2%AD%90-FFD700?style=flat-square&labelColor=333&color=FFD700" />
 			<br />
