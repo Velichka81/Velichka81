@@ -4,7 +4,7 @@
 
 # Willkommen auf meinem GitHub‑Profil 👋
 
-Fachinformatikerin (Umschulung) · Unity Game Development · Web (Frontend/Backend, PHP/JS/SQL) · Fullstack Development · C# · Java · Python · Grafikdesign
+Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Development · Web (Frontend/Backend, PHP/JS/SQL) · Fullstack Development · C# · Java · Python · Grafikdesign
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Velichka81&style=for-the-badge&color=0e75b6)](https://github.com/Velichka81)
 [![Follow](https://img.shields.io/github/followers/Velichka81?logo=github&style=for-the-badge)](https://github.com/Velichka81?tab=followers)
@@ -20,7 +20,7 @@ Fachinformatikerin (Umschulung) · Unity Game Development · Web (Frontend/Backe
 - Sprachen & Tools: C#, Java, Python, PHP, JavaScript, SQL
 - Arbeitsweise: sauberer Code, testgetrieben, pragmatisch, nutzerzentriert
 
-## � Fokusbereiche
+## 🎯 Fokusbereiche
 
 [![Grafikdesign](https://img.shields.io/badge/Grafikdesign-8A2BE2?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](#)
 [![Frontend](https://img.shields.io/badge/Frontend-FF6F00?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -28,7 +28,7 @@ Fachinformatikerin (Umschulung) · Unity Game Development · Web (Frontend/Backe
 [![Fullstack](https://img.shields.io/badge/Fullstack-4CAF50?style=for-the-badge&logo=stackshare&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
 
-## �🧰 Tech‑Stack
+##  Tech‑Stack
 
 <div align="left">
 
@@ -55,10 +55,20 @@ Fachinformatikerin (Umschulung) · Unity Game Development · Web (Frontend/Backe
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<!-- Badges removed -->
 
 </div>
+
+## 🏆 Top 3 Projekte
+
+- [Labyrinth – Echo of the Shards](https://github.com/Velichka81/Velichka81/tree/main/Labyrinth-Echo-of-the-Shards)
+	– Ein atmosphärisches Labyrinth‑Spiel mit Shard‑Mechanik und subtilen Lichteffekten. Fokus auf Level‑Design, Spielgefühl und klare Code‑Struktur in Unity/C#.
+
+- [Animated Banner](https://github.com/Velichka81/Velichka81/blob/main/assets/banner/animated-banner.svg) · [Profile Frame](https://github.com/Velichka81/Velichka81/blob/main/assets/profile/profile-frame.svg)
+	– Hochwertige SVG‑Branding‑Assets mit metallischem Gloss, linearer Animation und responsiver Gestaltung für Profile und Repos.
+
+- [Certificates (Zertifikate)](https://github.com/Velichka81/certificates)
+	– Zentrale Sammlung meiner Zertifikate mit übersichtlicher Struktur und direkten Downloads. Ergänzt das Profil um verifizierbare Nachweise.
 
 ## 🚀 Projekte (Auswahl)
 
@@ -129,16 +139,5 @@ Fachinformatikerin (Umschulung) · Unity Game Development · Web (Frontend/Backe
 
 </div>
 
-<details>
-	<summary>Profilbild‑Rahmen (optional)</summary>
-  
-	Du kannst einen stilvollen Rahmen für dein rundes Profilbild verwenden:
-  
-	- Datei: `assets/profile/profile-frame.svg`
-	- Größe: 420×420px, optimiert für runde Avatare
-	- Anwendung: Öffne die SVG, exportiere als PNG und lege sie in einem Bildeditor über dein Profilfoto.
-  
-</details>
 
----
 
