@@ -1,0 +1,22 @@
+{
+  // Silence accessibility scans from external pages (Simple Browser/Preview)
+  // Unknown keys are safely ignored if the extension isn't installed.
+  "webhint.runOn": "files", // only lint actual workspace files
+
+  // Common axe/webhint rules that fire on GitHub pages; disable globally in this workspace
+  "webhint.hints": {
+    "axe/label": "off",
+    "axe/label-title-only": "off"
+  },
+
+  // If you have an accessibility insights extension, keep it manual
+  "accessibilityInsights.analyzeOnLoad": false,
+  "accessibilityInsights.showIssues": false,
+
+  // Markdown preview stays active, but we don't want lints from the preview in Problems
+  // (most extensions respect runOn: files and won't lint preview docs)
+  "markdownlint.run": "onSave",
+
+  // Editor UX: show current file problems in status, avoid noise from non-workspace sources
+  "problems.showCurrentInStatus": true
+}
