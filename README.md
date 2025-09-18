@@ -14,6 +14,15 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 
 ---
 
+
+
+<a id="kurzueberblick"></a>
+## 🧭 Kurzüberblick
+- Umschulung: Fachinformatikerin für Anwendungsentwicklung (IHK Stuttgart)
+- Schwerpunkte: Unity Game Dev, Webentwicklung (PHP, JavaScript, SQL)
+- Sprachen & Tools: C#, Java, Python, PHP, JavaScript, SQL
+- Arbeitsweise: sauberer Code, testgetrieben, pragmatisch, nutzerzentriert
+
 ## 📚 Inhaltsverzeichnis
 
 <div align="center">
@@ -23,26 +32,27 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 <table>
 	<tr>
 		<td align="left" width="50%">
-
-		- 🧭 <a href="#kurzueberblick">Kurzüberblick</a><br/>
-		- 🎯 <a href="#fokus">Fokusbereiche</a><br/>
-		- 🛠️ <a href="#techstack">Tech‑Stack</a><br/>
-		- 🚀 <a href="#projekte">Projekte (Auswahl)</a>
-			<div style="margin-left: 1rem">
-				• 🎮 <a href="#arcadia">Project Arcadia</a><br/>
-				• 🎵 <a href="#lyritune">LyriTune</a><br/>
-				• 📚 <a href="#skillforge">SkillForge</a>
-			</div>
-
+		  <ul style="list-style:none; padding:0; margin:0;">
+		    <li>🧭 <a href="#kurzueberblick">Kurzüberblick</a></li>
+		    <li>🎯 <a href="#fokus">Fokusbereiche</a></li>
+		    <li>🛠️ <a href="#techstack">Tech‑Stack</a></li>
+		    <li>🚀 <a href="#projekte">Projekte (Auswahl)</a>
+		      <ul style="list-style:none; padding-left:1rem; margin:6px 0 0 0;">
+		        <li>🎮 <a href="#arcadia">Project Arcadia</a></li>
+		        <li>🎵 <a href="#lyritune">LyriTune</a></li>
+		        <li>📚 <a href="#skillforge">SkillForge</a></li>
+		      </ul>
+		    </li>
+		  </ul>
 		</td>
 		<td align="left" width="50%">
-
-		- 🎨 <a href="#grafikdesign">Grafikdesign – Galerie</a><br/>
-		- 🌐 <a href="#webdesign">Webdesign – Galerie</a><br/>
-		- 📜 <a href="#zertifikate">Zertifikate</a><br/>
-		- 📈 <a href="#stats">GitHub‑Statistiken</a><br/>
-		- 🤝 <a href="#kontakt">Kontakt</a>
-
+		  <ul style="list-style:none; padding:0; margin:0;">
+		    <li>🎨 <a href="#grafikdesign">Grafikdesign – Galerie</a></li>
+		    <li>🌐 <a href="#webdesign">Webdesign – Galerie</a></li>
+		    <li>📜 <a href="#zertifikate">Zertifikate</a></li>
+		    <li>📈 <a href="#stats">GitHub‑Statistiken</a></li>
+		    <li>🤝 <a href="#kontakt">Kontakt</a></li>
+		  </ul>
 		</td>
 	</tr>
   
@@ -53,13 +63,6 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 </div>
 
 <br />
-
-<a id="kurzueberblick"></a>
-## 🧭 Kurzüberblick
-- Umschulung: Fachinformatikerin für Anwendungsentwicklung (IHK Stuttgart)
-- Schwerpunkte: Unity Game Dev, Webentwicklung (PHP, JavaScript, SQL)
-- Sprachen & Tools: C#, Java, Python, PHP, JavaScript, SQL
-- Arbeitsweise: sauberer Code, testgetrieben, pragmatisch, nutzerzentriert
 
 <a id="fokus"></a>
 ## 🎯 Fokusbereiche
