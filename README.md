@@ -142,7 +142,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 			<img alt="Python" src="https://img.shields.io/badge/lang-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 		</td>
 		<td width="33%" align="center">
-			<a href="https://github.com/Velichka81/learn-platform"><img src="assets/projects/thumb-skillforge.svg" width="260" alt="SkillForge Thumbnail" title="SkillForge – Learn Platform" /></a>
+			<a href="https://github.com/Velichka81/learn-platform"><img src="assets/projects/thumb-skillforge.png" width="260" alt="SkillForge Thumbnail" title="SkillForge – Learn Platform" /></a>
 			<br />
 			<strong><a href="https://github.com/Velichka81/learn-platform">📚 SkillForge (IT‑Lernplattform)</a></strong><br />
 			<sub>AE‑Fokus mit Quiz & Übungen, klare REST‑Schnittstellen.</sub><br />
