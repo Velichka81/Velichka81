@@ -37,6 +37,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 		<td align="left" style="padding:0 8px; vertical-align: top;">
 		  <ul style="list-style:none; padding:0; margin:0; white-space:nowrap;">
 		    <li>🧭 <a href="#kurzueberblick">Kurzüberblick</a></li>
+		    <li>💼 <a href="#arbeitgeber">Für Arbeitgeber</a></li>
 		    <li>🎯 <a href="#fokus">Fokusbereiche</a></li>
 		    <li>🛠️ <a href="#techstack">Tech‑Stack</a></li>
 		    <li>🚀 <a href="#projekte">Projekte (Auswahl)</a>
@@ -68,6 +69,40 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 </details>
 
 <br />
+
+<a id="arbeitgeber"></a>
+## 💼 Für Arbeitgeber
+
+- Profil: Junior Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Praktikum 09.10.2025–07.07.2026, Vollzeit, Remote/Hybrid möglich
+- Verfügbarkeit: Praktikum 09.10.2025–07.07.2026 | Vollzeit | Remote/Hybrid möglich
+- Klare Mehrwerte: sauberer Code, verständliche Doku, automatisierte Qualitätschecks (Markdown, Links, HTML)
+- Praxis mit GitHub Actions (CI), Pull‑Request‑Workflows und Readme‑Optimierung
+- Sprachen/Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
+- Zusammenarbeit: strukturierte Kommunikation, pragmatische Lösungen, stetiges Lernen
+
+### Praktikum (IHK) – 09.10.2025 bis 07.07.2026
+
+Im Rahmen meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) suche ich in diesem Zeitraum ein spannendes und praxisorientiertes Praktikum.
+
+Schwerpunkte:
+
+- Softwareentwicklung: Java, Python, SQL, PHP
+- Webentwicklung: HTML, CSS, JavaScript
+- Datenbanken und Anwendungsdesign
+- Projektarbeit nach agilen Methoden (Scrum)
+
+Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Schreiben Sie mir gern direkt oder teilen Sie diese Informationen weiter.
+
+<div>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2f80ed?style=for-the-badge&logo=aboutdotme&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velichka-atanasova-32781a227)
+[![Kontakt](https://img.shields.io/badge/Kontakt-555?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:velichka811@abv.bg)
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velichka811@abv.bg)
+
+<br/><sub>Hinweis: Ich antworte i. d. R. innerhalb von 24 Stunden.</sub>
+
+</div>
 
 <a id="fokus"></a>
 ## 🎯 Fokusbereiche
