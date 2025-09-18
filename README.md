@@ -162,7 +162,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 <table>
 	<tr>
 		<td width="33%" align="center">
-			<a href="https://github.com/Velichka81/Zeiterfassung"><img src="assets/projects/thumb-zeiterfassung.svg" width="260" alt="Zeiterfassung Thumbnail" title="Zeiterfassung – Time Tracking" /></a>
+			<a href="https://github.com/Velichka81/Zeiterfassung"><img src="assets/projects/thumb-zeiterfassung.png" width="260" alt="Zeiterfassung Thumbnail" title="Zeiterfassung – Time Tracking" /></a>
 			<br />
 			<strong><a href="https://github.com/Velichka81/Zeiterfassung">⏱️ Zeiterfassung</a></strong><br />
 			<sub>Einfaches, klares Tool zur Erfassung von Arbeitszeiten.</sub><br />
