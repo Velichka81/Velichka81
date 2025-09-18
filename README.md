@@ -73,23 +73,17 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 <a id="arbeitgeber"></a>
 ## 💼 Für Arbeitgeber
 
-- Profil: Junior Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Praktikum 09.10.2025–07.07.2026, Vollzeit, Remote/Hybrid möglich
-- Verfügbarkeit: Praktikum 09.10.2025–07.07.2026 | Vollzeit | Remote/Hybrid möglich
+- Profil: Junior Anwendungsentwicklerin | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Ab 08.07.2026 | Vollzeit | Remote/Hybrid möglich
 - Klare Mehrwerte: sauberer Code, verständliche Doku, automatisierte Qualitätschecks (Markdown, Links, HTML)
 - Praxis mit GitHub Actions (CI), Pull‑Request‑Workflows und Readme‑Optimierung
 - Sprachen/Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
 - Zusammenarbeit: strukturierte Kommunikation, pragmatische Lösungen, stetiges Lernen
 
-### Praktikum (IHK) – 09.10.2025 bis 07.07.2026
-
-Im Rahmen meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) suche ich in diesem Zeitraum ein spannendes und praxisorientiertes Praktikum.
-
 Schwerpunkte:
-
-- Softwareentwicklung: Java, Python, SQL, PHP
+- Grafikdesign
+- Softwareentwicklung: Java, Python, SQL, PHP, C#
 - Webentwicklung: HTML, CSS, JavaScript
 - Datenbanken und Anwendungsdesign
-- Projektarbeit nach agilen Methoden (Scrum)
 
 Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Schreiben Sie mir gern direkt oder teilen Sie diese Informationen weiter.
 
