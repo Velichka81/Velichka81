@@ -72,11 +72,35 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 
 ## 🚀 Projekte (Auswahl)
 
-| Projekt | Typ | Beschreibung | Tech | Status |
-|---|---|---|---|---|
-| 🎮 Project Arcadia | <img alt="Fullstack" src="https://img.shields.io/badge/Fullstack-4CAF50?style=flat-square&logo=stackshare&logoColor=white" /> | Indie‑Spiel‑Prototyp mit prozeduralen Leveln und leichtgewichtigem ECS‑Ansatz | Unity · C# · ScriptableObjects | Prototyp/Vertical Slice |
-| 🎵 LyriTune (Text‑to‑Song) | <img alt="Fullstack" src="https://img.shields.io/badge/Fullstack-4CAF50?style=flat-square&logo=stackshare&logoColor=white" /> | App, die Texte in Gesangsmelodien verwandelt und Audio generiert | Python · Web (API/Frontend) · DSP | MVP in Arbeit |
-| 📚 SkillForge (IT‑Lernplattform) | <img alt="Fullstack" src="https://img.shields.io/badge/Fullstack-4CAF50?style=flat-square&logo=stackshare&logoColor=white" /> | Interaktive Lernplattform (AE‑Fokus) mit Quiz & Übungen | PHP · JavaScript · SQL · REST | Backend/DB‑Design |
+<div align="center">
+
+<table>
+	<tr>
+		<td width="33%" align="center">
+			<a href="#"><img src="assets/projects/thumb-arcadia.svg" width="260" alt="Project Arcadia Thumbnail" /></a>
+			<br />
+			<strong>🎮 Project Arcadia</strong><br />
+			<sub>Prozedurale Level, leichtgewichtiges ECS, Fokus auf Spielgefühl.</sub><br />
+			<sub><em>Unity · C# · ScriptableObjects · Prototyp/Vertical Slice</em></sub>
+		</td>
+		<td width="33%" align="center">
+			<a href="#"><img src="assets/projects/thumb-lyritune.svg" width="260" alt="LyriTune Thumbnail" /></a>
+			<br />
+			<strong>🎵 LyriTune (Text‑to‑Song)</strong><br />
+			<sub>Konvertiert Texte in Melodien; erste Audio‑Generierung integriert.</sub><br />
+			<sub><em>Python · Web (API/Frontend) · DSP · MVP in Arbeit</em></sub>
+		</td>
+		<td width="33%" align="center">
+			<a href="#"><img src="assets/projects/thumb-skillforge.svg" width="260" alt="SkillForge Thumbnail" /></a>
+			<br />
+			<strong>📚 SkillForge (IT‑Lernplattform)</strong><br />
+			<sub>AE‑Fokus mit Quiz & Übungen, klare REST‑Schnittstellen.</sub><br />
+			<sub><em>PHP · JavaScript · SQL · REST · Backend/DB‑Design</em></sub>
+		</td>
+	</tr>
+</table>
+
+</div>
 
 ## 🎨 Grafikdesign – Galerie
 
@@ -105,6 +129,30 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 > Tipp: Sieh dir auch das Unterprojekt im Repo an: `Labyrinth-Echo-of-the-Shards/`.
 
 ## 📜 Zertifikate
+
+## 🌐 Webdesign – Galerie
+
+<div align="center">
+
+<table>
+	<tr>
+		<td align="center">
+			<a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-1.svg" width="220" alt="Webdesign 1" /></a>
+			<br /><sub>Webdesign 1</sub>
+		</td>
+		<td align="center">
+			<a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-2.svg" width="220" alt="Webdesign 2" /></a>
+			<br /><sub>Webdesign 2</sub>
+		</td>
+		<td align="center">
+			<a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-3.svg" width="220" alt="Webdesign 3" /></a>
+			<br /><sub>Webdesign 3</sub>
+		</td>
+	</tr>
+  
+</table>
+
+</div>
 
 - 🏆 Grafikdesigner (2022)
 - 🖌️ Computergrafiker (2023)
