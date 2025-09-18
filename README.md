@@ -16,18 +16,41 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 
 ## 📚 Inhaltsverzeichnis
 
-- [Kurzüberblick](#kurzueberblick)
-- [Fokusbereiche](#fokus)
-- [Tech‑Stack](#techstack)
-- [Projekte (Auswahl)](#projekte)
-	- [Project Arcadia](#arcadia)
-	- [LyriTune](#lyritune)
-	- [SkillForge](#skillforge)
-- [Grafikdesign – Galerie](#grafikdesign)
-- [Webdesign – Galerie](#webdesign)
-- [Zertifikate](#zertifikate)
-- [GitHub‑Statistiken](#stats)
-- [Kontakt](#kontakt)
+<div align="center">
+
+<div style="display:inline-block;padding:12px 16px;border:1px solid #2a2a2a;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.015));box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+
+<table>
+	<tr>
+		<td align="left" width="50%">
+
+		- 🧭 <a href="#kurzueberblick">Kurzüberblick</a><br/>
+		- 🎯 <a href="#fokus">Fokusbereiche</a><br/>
+		- 🛠️ <a href="#techstack">Tech‑Stack</a><br/>
+		- 🚀 <a href="#projekte">Projekte (Auswahl)</a>
+			<div style="margin-left: 1rem">
+				• 🎮 <a href="#arcadia">Project Arcadia</a><br/>
+				• 🎵 <a href="#lyritune">LyriTune</a><br/>
+				• 📚 <a href="#skillforge">SkillForge</a>
+			</div>
+
+		</td>
+		<td align="left" width="50%">
+
+		- 🎨 <a href="#grafikdesign">Grafikdesign – Galerie</a><br/>
+		- 🌐 <a href="#webdesign">Webdesign – Galerie</a><br/>
+		- 📜 <a href="#zertifikate">Zertifikate</a><br/>
+		- 📈 <a href="#stats">GitHub‑Statistiken</a><br/>
+		- 🤝 <a href="#kontakt">Kontakt</a>
+
+		</td>
+	</tr>
+  
+ </table>
+
+</div>
+
+</div>
 
 <br />
 
@@ -87,7 +110,7 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 <table>
 	<tr>
 		<td width="33%" align="center">
-			<a href="#arcadia"><img src="assets/projects/thumb-arcadia.svg" width="260" alt="Project Arcadia Thumbnail" /></a>
+			<a href="Labyrinth-Echo-of-the-Shards/"><img src="assets/projects/thumb-arcadia.svg" width="260" alt="Project Arcadia Thumbnail" /></a>
 			<br />
 			<strong>🎮 Project Arcadia</strong>&nbsp;<img alt="Featured" src="https://img.shields.io/badge/Featured-%E2%AD%90-FFD700?style=flat-square&labelColor=333&color=FFD700" />
 			<br />
@@ -102,7 +125,7 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 			<sub><em>Python · Web (API/Frontend) · DSP · MVP in Arbeit</em></sub>
 		</td>
 		<td width="33%" align="center">
-			<a href="#skillforge"><img src="assets/projects/thumb-skillforge.svg" width="260" alt="SkillForge Thumbnail" /></a>
+			<a href="https://github.com/Velichka81/learn-platform"><img src="assets/projects/thumb-skillforge.svg" width="260" alt="SkillForge Thumbnail" /></a>
 			<br />
 			<strong>📚 SkillForge (IT‑Lernplattform)</strong><br />
 			<sub>AE‑Fokus mit Quiz & Übungen, klare REST‑Schnittstellen.</sub><br />
@@ -115,7 +138,9 @@ Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Unity Game Develop
 
 ### <a id="arcadia"></a>🎮 Project Arcadia
 
-Ein experimenteller Unity‑Prototyp mit prozeduralen Leveln, leichtgewichtigem ECS‑Ansatz und Fokus auf präzises Spielgefühl. Ziel: saubere Architektur und schnelle Iteration. Repository/Build‑Link folgt.
+Ein experimenteller Unity‑Prototyp mit prozeduralen Leveln, leichtgewichtigem ECS‑Ansatz und Fokus auf präzises Spielgefühl. Ziel: saubere Architektur und schnelle Iteration.
+
+➡️ Zum Unity‑Projekt: [Labyrinth – Echo of the Shards](Labyrinth-Echo-of-the-Shards/)
 
 ### <a id="lyritune"></a>🎵 LyriTune (Text‑to‑Song)
 
@@ -124,6 +149,8 @@ Konvertiert kurze Texte in einfache Melodien. Erste DSP‑Bausteine und eine kle
 ### <a id="skillforge"></a>📚 SkillForge (IT‑Lernplattform)
 
 Lernplattform mit Themenfokus AE: Modulkonzept, Quiz‑Engine und saubere REST‑Schnittstellen. Aktuell entwerfe ich das Datenmodell und erste Endpunkte. Weitere Infos folgen.
+
+➡️ Zum Repository: [SkillForge – Learn Platform](https://github.com/Velichka81/learn-platform)
 
 <a id="grafikdesign"></a>
 ## 🎨 Grafikdesign – Galerie
