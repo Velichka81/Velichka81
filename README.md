@@ -38,7 +38,8 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 		  <ul style="list-style:none; padding:0; margin:0; white-space:nowrap;">
 		    <li>🧭 <a href="#kurzueberblick">Kurzüberblick</a></li>
 		    <li>🎯 <a href="#fokus">Fokusbereiche</a></li>
-		    <li>🛠️ <a href="#techstack">Tech‑Stack</a></li>
+		    <li>� <a href="#screenshots">Screenshots</a></li>
+		    <li>�🛠️ <a href="#techstack">Tech‑Stack</a></li>
 		  </ul>
 		</td>
 		<td align="left" style="padding:0 8px; vertical-align: top;">
@@ -82,6 +83,23 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 [![Backend](https://img.shields.io/badge/Backend-0DB7ED?style=for-the-badge&logo=serverless&logoColor=white)](#)
 [![Fullstack](https://img.shields.io/badge/Fullstack-4CAF50?style=for-the-badge&logo=stackshare&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
+
+<a id="screenshots"></a>
+## 📸 Screenshots
+
+Nachfolgend einige Eindrücke zu den Projekten. Jeweils ein Bild pro Zeile mit kurzer Bildunterschrift.
+
+![Project Arcadia – Gameplay](assets/projects/thumb-arcadia.png "Project Arcadia – Gameplay")
+_Gameplay_
+
+![LyriTune – UI](assets/projects/thumb-lyritune.svg "LyriTune – UI")
+_UI_
+
+![SkillForge – Dashboard](assets/projects/thumb-skillforge.png "SkillForge – Dashboard")
+_Dashboard_
+
+![Zeiterfassung – Dashboard](assets/projects/thumb-zeiterfassung.png "Zeiterfassung – Dashboard")
+_Dashboard_
 
 <a id="techstack"></a>
 ## 🛠️ Tech‑Stack
