@@ -1,7 +1,7 @@
-<div align="center">
+<div align="left">
 
 <br />
-<div align="center" style="margin-bottom:18px;font-size:1.1em;">
+<div align="left" style="margin-bottom:18px;font-size:1.1em;">
 🌍 <strong>Доступно на:</strong>
 <a href="README.md">Deutsch</a> |
 <a href="README.en.md">English</a> |
@@ -13,7 +13,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <img src="assets/banner/animated-banner.svg" alt="Анимированный баннер" width="100%"/>
 
@@ -37,7 +37,7 @@
 <details open>
 	<summary><em>Показать/скрыть</em></summary>
 
-<div align="center">
+<div align="left">
 
 <div style="display:inline-block;width:98%;max-width:1200px;margin:0 auto;padding:10px 14px;border:1px solid #2a2a2a;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.015));box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
@@ -123,11 +123,11 @@
 <a id="projects-ru"></a>
 ## 🚀 Проекты (выбор)
 
-<div align="center">
+<div align="left">
 
 <table>
     <tr>
-        <td width="33%" align="center">
+    <td width="33%" align="left">
             <a href="Labyrinth-Echo-of-the-Shards/"><img src="assets/projects/thumb-arcadia.png" width="260" alt="Проект Arcadia" title="Project Arcadia – Unity/C#" /></a>
             <br />
             <strong><a href="Labyrinth-Echo-of-the-Shards/">🎮 Project Arcadia</a></strong>&nbsp;<img alt="Featured" src="https://img.shields.io/badge/Featured-%E2%AD%90-FFD700?style=flat-square&labelColor=333&color=FFD700" />
@@ -138,7 +138,7 @@
             <img alt="Unity" src="https://img.shields.io/badge/engine-Unity-000?style=flat-square&logo=unity&logoColor=white" />
             <img alt="C#" src="https://img.shields.io/badge/lang-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
         </td>
-        <td width="33%" align="center">
+    <td width="33%" align="left">
             <a href="#lyritune-ru"><img src="assets/projects/thumb-lyritune.svg" width="260" alt="LyriTune" title="LyriTune – Текст в песню (WIP)" /></a>
             <br />
             <strong><a href="#lyritune-ru">🎵 LyriTune (Текст‑в‑мелодию)</a></strong><br />
@@ -147,7 +147,7 @@
             <img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
             <img alt="Python" src="https://img.shields.io/badge/lang-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         </td>
-        <td width="33%" align="center">
+    <td width="33%" align="left">
             <a href="https://github.com/Velichka81/learn-platform"><img src="assets/projects/thumb-skillforge.png" width="260" alt="SkillForge" title="SkillForge – Платформа обучения" /></a>
             <br />
             <strong><a href="https://github.com/Velichka81/learn-platform">📚 SkillForge (платформа обучения)</a></strong><br />
@@ -162,11 +162,11 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <table>
     <tr>
-        <td width="33%" align="center">
+    <td width="33%" align="left">
             <a href="https://github.com/Velichka81/Zeiterfassung"><img src="assets/projects/thumb-zeiterfassung.png" width="260" alt="Учет времени" title="Zeiterfassung" /></a>
             <br />
             <strong><a href="https://github.com/Velichka81/Zeiterfassung">⏱️ Учет времени</a></strong><br />
@@ -225,19 +225,19 @@ _Панель_
 <a id="design-ru"></a>
 ## 🎨 Графический дизайн – Галерея
 
-<div align="center">
+<div align="left">
 
 <table>
     <tr>
-        <td align="center">
+    <td align="left">
             <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-1.svg" width="220" alt="Графический дизайн 1" title="Graphic Design 1" /></a>
             <br /><sub>Графический дизайн 1</sub>
         </td>
-        <td align="center">
+    <td align="left">
             <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-2.svg" width="220" alt="Графический дизайн 2" title="Graphic Design 2" /></a>
             <br /><sub>Графический дизайн 2</sub>
         </td>
-        <td align="center">
+    <td align="left">
             <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-3.svg" width="220" alt="Графический дизайн 3" title="Graphic Design 3" /></a>
             <br /><sub>Графический дизайн 3</sub>
         </td>
@@ -251,19 +251,19 @@ _Панель_
 <a id="webdesign-ru"></a>
 ## 🌐 Веб‑дизайн – Галерея
 
-<div align="center">
+<div align="left">
 
 <table>
     <tr>
-        <td align="center">
+    <td align="left">
             <a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-1.svg" width="220" alt="Веб‑дизайн 1" title="Web Design 1" /></a>
             <br /><sub>Веб‑дизайн 1</sub>
         </td>
-        <td align="center">
+    <td align="left">
             <a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-2.svg" width="220" alt="Веб‑дизайн 2" title="Web Design 2" /></a>
             <br /><sub>Веб‑дизайн 2</sub>
         </td>
-        <td align="center">
+    <td align="left">
             <a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-3.svg" width="220" alt="Веб‑дизайн 3" title="Web Design 3" /></a>
             <br /><sub>Веб‑дизайн 3</sub>
         </td>
@@ -287,7 +287,7 @@ _Панель_
 <a id="stats-ru"></a>
 ## 📈 GitHub статистика
 
-<div align="center">
+<div align="left">
 
 <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Velichka81&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
 <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velichka81&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=86400" />
