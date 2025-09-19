@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner/animated-banner.svg" alt="Анимированный баннер" width="100%"/>
-
 <br />
 <div align="center" style="margin-bottom:18px;font-size:1.1em;">
 🌍 <strong>Доступно на:</strong>
@@ -14,8 +12,6 @@
 ---
 
 </div>
-
-# 🇷🇺 Русский
 
 <div align="center">
 

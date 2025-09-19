@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner/animated-banner.svg" alt="Animated Banner" width="100%"/>
-
 <br />
 <div align="center" style="margin-bottom:18px;font-size:1.1em;">
 🌍 <strong>Available in:</strong>
@@ -14,8 +12,6 @@
 ---
 
 </div>
-
-# 🇬🇧 English
 
 <div align="center">
 
