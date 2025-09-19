@@ -3,10 +3,10 @@
 <br />
 <div align="center" style="margin-bottom:18px;font-size:1.1em;">
 🌍 <strong>Доступно на:</strong>
-<a href="README.md">Deutsch</a> |
-<a href="README.en.md">English</a> |
-<a href="README.bg.md">Български</a> |
-<strong>Русский</strong>
+🇩🇪 <a href="README.md" title="Deutsch">Deutsch</a> |
+🇬🇧 <a href="README.en.md" title="English">English</a> |
+🇧🇬 <a href="README.bg.md" title="Български">Български</a> |
+🇷🇺 <strong>Русский</strong>
 </div>
 
 ---
