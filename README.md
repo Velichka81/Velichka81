@@ -1,7 +1,7 @@
-<div align="left">
+<div align="center">
 
 <br />
-<div align="left" style="margin-bottom:18px;font-size:1.1em;">
+<div align="center" style="margin-bottom:18px;font-size:1.1em;">
 🌍 <strong>Verfügbar in:</strong>
 <strong>Deutsch</strong> |
 <a href="README.en.md">English</a> |
@@ -14,7 +14,7 @@
 
 <a id="deutsch"></a>
 
-<div align="left">
+<div align="center">
 
 <img src="assets/banner/animated-banner.svg" alt="Animiertes Banner" width="100%"/>
 
@@ -97,7 +97,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 <a id="techstack"></a>
 ## 🛠️ Tech‑Stack
 
-<div align="left">
+<div align="center">
 
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -124,7 +124,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 <a id="projekte"></a>
 ## 🚀 Projekte (Auswahl)
 
-<div align="left">
+<div align="center">
 
 <table>
     <tr>
@@ -228,19 +228,19 @@ _Dashboard_
 <a id="design"></a>
 ## 🎨 Grafikdesign – Galerie
 
-<div align="left">
+<div align="center">
 
 <table>
     <tr>
-    <td align="left">
+    <td >
             <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-1.svg" width="220" alt="Grafikdesign 1" title="Grafikdesign 1" /></a>
             <br /><sub>Grafikdesign 1</sub>
         </td>
-    <td align="left">
+    <td >
             <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-2.svg" width="220" alt="Grafikdesign 2" title="Grafikdesign 2" /></a>
             <br /><sub>Grafikdesign 2</sub>
         </td>
-    <td align="left">
+    <td >
             <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-3.svg" width="220" alt="Grafikdesign 3" title="Grafikdesign 3" /></a>
             <br /><sub>Grafikdesign 3</sub>
         </td>
@@ -255,19 +255,19 @@ _Dashboard_
 <a id="webdesign"></a>
 ## 🌐 Webdesign – Galerie
 
-<div align="left">
+<div align="center">
 
 <table>
     <tr>
-    <td align="left">
+    <td >
             <a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-1.svg" width="220" alt="Webdesign 1" title="Webdesign 1" /></a>
             <br /><sub>Webdesign 1</sub>
         </td>
-    <td align="left">
+    <td >
             <a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-2.svg" width="220" alt="Webdesign 2" title="Webdesign 2" /></a>
             <br /><sub>Webdesign 2</sub>
         </td>
-    <td align="left">
+    <td >
             <a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-3.svg" width="220" alt="Webdesign 3" title="Webdesign 3" /></a>
             <br /><sub>Webdesign 3</sub>
         </td>
@@ -292,7 +292,7 @@ _Dashboard_
 <a id="stats"></a>
 ## 📈 GitHub‑Statistiken
 
-<div align="left">
+<div align="center">
 
 <img height="165" alt="GitHub Statistiken" src="https://github-readme-stats.vercel.app/api?username=Velichka81&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
 <img height="165" alt="Top‑Sprachen" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velichka81&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=86400" />
@@ -308,7 +308,7 @@ _Dashboard_
 - 💼 LinkedIn: https://www.linkedin.com/in/velichka-atanasova-32781a227
 - 📍 Standort: Stuttgart, Deutschland
 
-<div align="left">
+<div >
 
 [![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:velichka811@abv.bg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velichka-atanasova-32781a227)
