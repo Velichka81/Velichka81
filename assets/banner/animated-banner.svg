@@ -118,40 +118,41 @@
   <!-- Text -->
   <!-- 3D-Titel mit Extrusion (mehrere versetzte Ebenen) -->
   <g font-family="Nunito, Quicksand, Poppins, Segoe UI, Inter, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">
-    <!-- Extrusions-Layer (dunkles Lila) -->
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="#2E1065" opacity="0.50" transform="translate(6,6)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="#2E1065" opacity="0.45" transform="translate(5,5)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="#2E1065" opacity="0.40" transform="translate(4,4)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="#2E1065" opacity="0.35" transform="translate(3,3)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="#2E1065" opacity="0.30" transform="translate(2,2)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="#2E1065" opacity="0.25" transform="translate(1,1)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+    <!-- Extrusions-Layer (dunkles Lila) - größere Offsets für stärkere 3D-Tiefe -->
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="#2E1065" opacity="0.50" transform="translate(7,7)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="#2E1065" opacity="0.45" transform="translate(6,6)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="#2E1065" opacity="0.40" transform="translate(5,5)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="#2E1065" opacity="0.35" transform="translate(4,4)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="#2E1065" opacity="0.30" transform="translate(3,3)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="#2E1065" opacity="0.25" transform="translate(2,2)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="#2E1065" opacity="0.20" transform="translate(1,1)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
 
     <!-- Vorderseite mit Metallic-Füllung, feine Kontur & Glow -->
   <!-- Metallic base text for depth and readability -->
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="url(#metalGrad)" stroke="#2E1065" stroke-width="0.95" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" filter="url(#textGlow)" letter-spacing="0.10px">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="url(#metalGrad)" stroke="#2E1065" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" filter="url(#textGlow)" letter-spacing="0.2px">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
   <!-- Static glossy overlay (top fade) -->
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="url(#glossOverlay)" letter-spacing="0.10px">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="url(#glossOverlay)" letter-spacing="0.2px">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
   <!-- Weiche Kontur für runde Anmutung -->
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="none" stroke="#3B0764" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" opacity="0.18" filter="url(#softRound)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="none" stroke="#3B0764" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" opacity="0.18" filter="url(#softRound)">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
   <!-- Subtle inner dark edge for premium depth -->
   <linearGradient id="innerEdge" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0%" stop-color="#1F0A3A" stop-opacity="0.35"/>
     <stop offset="100%" stop-color="#1F0A3A" stop-opacity="0.00"/>
   </linearGradient>
-  <text x="50%" y="55%" font-size="44" font-weight="800" fill="none" stroke="url(#innerEdge)" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round" opacity="0.35">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="48" font-weight="800" fill="none" stroke="url(#innerEdge)" stroke-width="0.8" stroke-linejoin="round" stroke-linecap="round" opacity="0.35">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
   <!-- Animierter Glanz-Sweep (zweifach, versetzt) -->
   <!-- Very subtle moving shine, further reduced -->
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="url(#shineGrad)" opacity="0.11">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
-  <text x="50%" y="55%" font-size="46" font-weight="700" fill="url(#shineGrad2)" opacity="0.07">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="url(#shineGrad)" opacity="0.11">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
+  <text x="50%" y="55%" font-size="50" font-weight="800" fill="url(#shineGrad2)" opacity="0.07">Velichka Atanasova · Unity · Web · Java · Python · C#</text>
   </g>
 
   <!-- 3D-Subtitel (dezente Extrusion) -->
   <g font-family="Nunito, Quicksand, Poppins, Segoe UI, Inter, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="#2E1065" opacity="0.35" transform="translate(2,2)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="#2E1065" opacity="0.25" transform="translate(1,1)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="url(#metalGrad)" stroke="#3B0764" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" filter="url(#textGlow)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="none" stroke="#3B0764" stroke-width="0.9" stroke-linejoin="round" stroke-linecap="round" opacity="0.16" filter="url(#softRound)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="url(#shineGrad)" opacity="0.34">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
-  <text x="50%" y="75%" font-size="20" font-weight="600" fill="url(#shineGrad2)" opacity="0.24">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="22" font-weight="700" fill="#2E1065" opacity="0.35" transform="translate(2,2)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="22" font-weight="700" fill="#2E1065" opacity="0.25" transform="translate(1,1)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="22" font-weight="700" fill="url(#metalGrad)" stroke="#3B0764" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" filter="url(#textGlow)" letter-spacing="0.1px">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="22" font-weight="700" fill="none" stroke="#3B0764" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="round" opacity="0.16" filter="url(#softRound)">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="22" font-weight="700" fill="url(#shineGrad)" opacity="0.34">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
+  <text x="50%" y="75%" font-size="22" font-weight="700" fill="url(#shineGrad2)" opacity="0.24">Fachinformatikerin für Anwendungsentwicklung (Umschulung) · Fullstack · Webdesign · Grafikdesign</text>
   </g>
 </svg>
