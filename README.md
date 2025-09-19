@@ -24,7 +24,9 @@
 
 </div>
 
-Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Grafikdesign · Stuttgart
+<div align="center">
+	Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Grafikdesign · Stuttgart
+</div>
 
 <a id="kurzueberblick"></a>
 ## 🧭 Kurzüberblick

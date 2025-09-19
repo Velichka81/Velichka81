@@ -23,7 +23,9 @@
 
 </div>
 
-IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Graphic Design · Stuttgart
+<div align="center">
+    IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Graphic Design · Stuttgart
+</div>
 
 <a id="overview-en"></a>
 ## 🧭 Overview
