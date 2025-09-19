@@ -9,6 +9,7 @@
 <a href="README.ru.md" title="Русский"><img src="assets/flags/ru.svg" alt="Русский" width="24" height="16" /></a>
 </div>
 
+---
 
 </div>
 
