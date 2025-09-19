@@ -87,12 +87,13 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 
 <a id="schwerpunkte"></a>
 ## 🎯 Schwerpunkte
-
+<div align="center">
 [![Grafikdesign](https://img.shields.io/badge/Grafikdesign-8A2BE2?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](#)
 [![Frontend](https://img.shields.io/badge/Frontend-FF6F00?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Backend](https://img.shields.io/badge/Backend-0DB7ED?style=for-the-badge&logo=serverless&logoColor=white)](#)
 [![Fullstack](https://img.shields.io/badge/Fullstack-4CAF50?style=for-the-badge&logo=stackshare&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
+</div>
 
 <a id="techstack"></a>
 ## 🛠️ Tech‑Stack
