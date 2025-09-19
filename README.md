@@ -88,11 +88,24 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 <a id="schwerpunkte"></a>
 ## 🎯 Schwerpunkte
 
+<div align="center">
+
 [![Grafikdesign](https://img.shields.io/badge/Grafikdesign-8A2BE2?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](#)
 [![Frontend](https://img.shields.io/badge/Frontend-FF6F00?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Backend](https://img.shields.io/badge/Backend-0DB7ED?style=for-the-badge&logo=serverless&logoColor=white)](#)
-[![Fullstack](https://img.shields.io/badge/Fullstack-4CAF50?style=for-the-badge&logo=stackshare&logoColor=white)](#)
+[![Fullstack](https://img.shields.io/badge/Fullstack-4CAF50?style=for-the-badge&logo=stackshare&logoColor=white)](#)<br />
+
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)<br />
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+
+</div>
 
 <a id="techstack"></a>
 ## 🛠️ Tech‑Stack
