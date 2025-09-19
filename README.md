@@ -128,7 +128,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 
 <table>
     <tr>
-    <td width="33%">
+    <td width="33%" align="center">
             <a href="Labyrinth-Echo-of-the-Shards/"><img src="assets/projects/thumb-arcadia.png" width="260" alt="Projekt Arcadia Vorschaubild" title="Projekt Arcadia – Unity/C#" /></a>
             <br />
             <strong><a href="Labyrinth-Echo-of-the-Shards/">🎮 Projekt Arcadia</a></strong>&nbsp;<img alt="Featured" src="https://img.shields.io/badge/Featured-%E2%AD%90-FFD700?style=flat-square&labelColor=333&color=FFD700" />
@@ -139,7 +139,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
             <img alt="Unity" src="https://img.shields.io/badge/engine-Unity-000?style=flat-square&logo=unity&logoColor=white" />
             <img alt="C#" src="https://img.shields.io/badge/lang-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
         </td>
-    <td width="33%">
+    <td width="33%" align="center">
             <a href="#lyritune"><img src="assets/projects/thumb-lyritune.svg" width="260" alt="LyriTune Vorschaubild" title="LyriTune – Text zu Melodie (WIP)" /></a>
             <br />
             <strong><a href="#lyritune">🎵 LyriTune (Text‑zu‑Melodie)</a></strong><br />
@@ -148,7 +148,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
             <img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
             <img alt="Python" src="https://img.shields.io/badge/lang-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         </td>
-    <td width="33%">
+    <td width="33%" align="center">
             <a href="https://github.com/Velichka81/learn-platform"><img src="assets/projects/thumb-skillforge.png" width="260" alt="SkillForge Vorschaubild" title="SkillForge – Lernplattform" /></a>
             <br />
             <strong><a href="https://github.com/Velichka81/learn-platform">📚 SkillForge (IT‑Lernplattform)</a></strong><br />
@@ -162,19 +162,20 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 </table>
 
 </div>
-
-<table>
-    <tr>
-    <td width="33%">
-            <a href="https://github.com/Velichka81/Zeiterfassung"><img src="assets/projects/thumb-zeiterfassung.png" width="260" alt="Zeiterfassung Vorschaubild" title="Zeiterfassung" /></a>
-            <br />
-            <strong><a href="https://github.com/Velichka81/Zeiterfassung">⏱️ Zeiterfassung</a></strong><br />
-            <sub>Schlankes Tool zum Erfassen von Arbeitszeiten.</sub><br />
-            <sub><em>PHP · JavaScript · SQL · REST</em></sub><br/>
-            <img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
-        </td>
-    </tr>
-</table>
+<div align="center">
+	<table>
+		<tr>
+		<td width="33%" align="center">
+				<a href="https://github.com/Velichka81/Zeiterfassung"><img src="assets/projects/thumb-zeiterfassung.png" width="260" alt="Zeiterfassung Vorschaubild" title="Zeiterfassung" /></a>
+				<br />
+				<strong><a href="https://github.com/Velichka81/Zeiterfassung">⏱️ Zeiterfassung</a></strong><br />
+				<sub>Schlankes Tool zum Erfassen von Arbeitszeiten.</sub><br />
+				<sub><em>PHP · JavaScript · SQL · REST</em></sub><br/>
+				<img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
+			</td>
+		</tr>
+	</table>
+</div>
 
 
 ### <a id="arcadia"></a>🎮 Projekt Arcadia
