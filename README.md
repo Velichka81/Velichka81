@@ -3,7 +3,7 @@
 <br />
 <div align="center" style="margin-bottom:18px;font-size:1.1em;">
 🌍 <strong>Verfügbar in:</strong>
-<img src="assets/flags/de.svg" alt="Deutsch" title="Deutsch" width="24" height="16" /> |
+<img src="assets/flags/de.svg" alt="Deutsch" title="Deutsch" width="36" height="24" /> |
 <a href="README.en.md" title="English"><img src="assets/flags/gb.svg" alt="English" width="24" height="16" /></a> |
 <a href="README.bg.md" title="Български"><img src="assets/flags/bg.svg" alt="Български" width="24" height="16" /></a> |
 <a href="README.ru.md" title="Русский"><img src="assets/flags/ru.svg" alt="Русский" width="24" height="16" /></a>

@@ -6,7 +6,7 @@
 <a href="README.md" title="Deutsch"><img src="assets/flags/de.svg" alt="Deutsch" width="24" height="16" /></a> |
 <a href="README.en.md" title="English"><img src="assets/flags/gb.svg" alt="English" width="24" height="16" /></a> |
 <a href="README.bg.md" title="Български"><img src="assets/flags/bg.svg" alt="Български" width="24" height="16" /></a> |
-<img src="assets/flags/ru.svg" alt="Русский" title="Русский" width="24" height="16" />
+<img src="assets/flags/ru.svg" alt="Русский" title="Русский" width="36" height="24" />
 </div>
 
 ---

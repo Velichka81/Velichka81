@@ -5,7 +5,7 @@
 🌍 <strong>Налично на:</strong>
 <a href="README.md" title="Deutsch"><img src="assets/flags/de.svg" alt="Deutsch" width="24" height="16" /></a> |
 <a href="README.en.md" title="English"><img src="assets/flags/gb.svg" alt="English" width="24" height="16" /></a> |
-<img src="assets/flags/bg.svg" alt="Български" title="Български" width="24" height="16" /> |
+<img src="assets/flags/bg.svg" alt="Български" title="Български" width="36" height="24" /> |
 <a href="README.ru.md" title="Русский"><img src="assets/flags/ru.svg" alt="Русский" width="24" height="16" /></a>
 </div>
 
