@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="assets/banner/animated-banner.svg" alt="Анимированный баннер" width="100%"/>
+<img src="assets/banner/banner-ru.svg" alt="Добро пожаловать Banner" width="100%"/>
 
 [![Просмотры профиля](https://komarev.com/ghpvc/?username=Velichka81&style=for-the-badge&color=0e75b6)](https://github.com/Velichka81)
 [![Подписчики](https://img.shields.io/github/followers/Velichka81?logo=github&style=for-the-badge)](https://github.com/Velichka81?tab=followers)

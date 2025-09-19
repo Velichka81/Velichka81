@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="assets/banner/animated-banner.svg" alt="Animiertes Banner" width="100%"/>
+<img src="assets/banner/banner-de.svg" alt="Willkommen Banner" width="100%"/>
 
 [![Profilaufrufe](https://komarev.com/ghpvc/?username=Velichka81&style=for-the-badge&color=0e75b6)](https://github.com/Velichka81)
 [![Folgen](https://img.shields.io/github/followers/Velichka81?logo=github&style=for-the-badge)](https://github.com/Velichka81?tab=followers)
