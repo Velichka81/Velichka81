@@ -38,7 +38,7 @@ Fachinformatikerin AE (Umschulung) · Unity/C# · Web (PHP/JS/SQL) · Fullstack 
 <details open>
 	<summary><em>Inhalt anzeigen/ausblenden</em></summary>
 
-<div align="left">
+<div align="center">
 
 <div style="display:inline-block;width:98%;max-width:1200px;margin:0 auto;padding:10px 14px;border:1px solid #2a2a2a;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.015));box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
