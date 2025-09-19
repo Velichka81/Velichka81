@@ -3,10 +3,10 @@
 <br />
 <div align="center" style="margin-bottom:18px;font-size:1.1em;">
 🌍 <strong>Налично на:</strong>
-🇩🇪 <a href="README.md" title="Deutsch">Deutsch</a> |
-🇬🇧 <a href="README.en.md" title="English">English</a> |
-🇧🇬 <strong>Български</strong> |
-🇷🇺 <a href="README.ru.md" title="Русский">Русский</a>
+<a href="README.md" title="Deutsch"><img src="assets/flags/de.svg" alt="Deutsch" width="24" height="16" /></a> <a href="README.md" title="Deutsch">Deutsch</a> |
+<a href="README.en.md" title="English"><img src="assets/flags/gb.svg" alt="English" width="24" height="16" /></a> <a href="README.en.md" title="English">English</a> |
+<img src="assets/flags/bg.svg" alt="Български" title="Български" width="24" height="16" /> <strong>Български</strong> |
+<a href="README.ru.md" title="Русский"><img src="assets/flags/ru.svg" alt="Русский" width="24" height="16" /></a> <a href="README.ru.md" title="Русский">Русский</a>
 </div>
 
 ---
