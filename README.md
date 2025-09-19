@@ -283,7 +283,7 @@ _Dashboard_
 - 🏆 Grafikdesignerin (2022)
 - 🖌️ Computergrafikerin (2023)
 - 💻 Webdesignerin (2024)
-- �‍💻 Fachinformatikerin Anwendungsentwicklung (seit 2024, IHK Stuttgart)
+- 👩‍💻 Fachinformatikerin Anwendungsentwicklung (seit 2024, IHK Stuttgart)
 - 🐍 Python Grundlagen & SQL (2025)
 - 📈 Scrum (2025)
 

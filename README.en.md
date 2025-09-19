@@ -25,7 +25,7 @@
 
 IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Graphic Design · Stuttgart
 
-<a id="kurzueberblick-en"></a>
+<a id="overview-en"></a>
 ## 🧭 Overview
 - Retraining: IT Specialist for Application Development (IHK Stuttgart)
 - Focus: Unity Game Dev, Web Development (PHP, JavaScript, SQL)
@@ -45,7 +45,7 @@ IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Gr
 	<tr>
 		<td align="left" style="padding:0 8px; vertical-align: top;">
 		  <ul style="list-style:none; padding:0; margin:0; white-space:nowrap;">
-		    <li>🧭 <a href="#kurzueberblick-en">Overview</a></li>
+            <li>🧭 <a href="#overview-en">Overview</a></li>
 		    <li>🎯 <a href="#focus-en">Focus Areas</a></li>
 		    <li>📸 <a href="#screenshots-en">Screenshots</a></li>
 		    <li>🛠️ <a href="#techstack-en">Tech Stack</a></li>
