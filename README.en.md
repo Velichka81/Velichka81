@@ -9,7 +9,6 @@
 <a href="README.ru.md">Русский</a>
 </div>
 
----
 
 </div>
 
@@ -43,7 +42,7 @@ IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Gr
 
 <table style="border-collapse:collapse;margin:0;width:100%;table-layout:auto;">
 	<tr>
-		<td align="left" style="padding:0 8px; vertical-align: top;">
+<td align="left" style="padding:0 8px; vertical-align: top;">
 		  <ul style="list-style:none; padding:0; margin:0; white-space:nowrap;">
             <li>🧭 <a href="#overview-en">Overview</a></li>
 		    <li>🎯 <a href="#focus-en">Focus Areas</a></li>
@@ -132,7 +131,7 @@ IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Gr
 
 <table>
     <tr>
-    <td width="33%" align="left">
+  <td width="33%" align="center">
             <a href="Labyrinth-Echo-of-the-Shards/"><img src="assets/projects/thumb-arcadia.png" width="260" alt="Project Arcadia Thumbnail" title="Project Arcadia – Unity/C#" /></a>
             <br />
             <strong><a href="Labyrinth-Echo-of-the-Shards/">🎮 Project Arcadia</a></strong>&nbsp;<img alt="Featured" src="https://img.shields.io/badge/Featured-%E2%AD%90-FFD700?style=flat-square&labelColor=333&color=FFD700" />
@@ -143,7 +142,7 @@ IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Gr
             <img alt="Unity" src="https://img.shields.io/badge/engine-Unity-000?style=flat-square&logo=unity&logoColor=white" />
             <img alt="C#" src="https://img.shields.io/badge/lang-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
         </td>
-    <td width="33%" align="left">
+  <td width="33%" align="center">
             <a href="#lyritune-en"><img src="assets/projects/thumb-lyritune.svg" width="260" alt="LyriTune Thumbnail" title="LyriTune – Text to Song (WIP)" /></a>
             <br />
             <strong><a href="#lyritune-en">🎵 LyriTune (Text‑to‑Song)</a></strong><br />
@@ -152,7 +151,7 @@ IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Gr
             <img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
             <img alt="Python" src="https://img.shields.io/badge/lang-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         </td>
-    <td width="33%" align="left">
+  <td width="33%" align="center">
             <a href="https://github.com/Velichka81/learn-platform"><img src="assets/projects/thumb-skillforge.png" width="260" alt="SkillForge Thumbnail" title="SkillForge – Learn Platform" /></a>
             <br />
             <strong><a href="https://github.com/Velichka81/learn-platform">📚 SkillForge (IT learning platform)</a></strong><br />
@@ -171,7 +170,7 @@ IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Gr
 
 <table>
     <tr>
-    <td width="33%" align="left">
+  <td width="33%" align="center">
             <a href="https://github.com/Velichka81/Zeiterfassung"><img src="assets/projects/thumb-zeiterfassung.png" width="260" alt="Time Tracking Thumbnail" title="Time Tracking" /></a>
             <br />
             <strong><a href="https://github.com/Velichka81/Zeiterfassung">⏱️ Time Tracking</a></strong><br />
@@ -232,19 +231,19 @@ _Dashboard_
 <a id="design-en"></a>
 ## 🎨 Graphic Design – Gallery
 
-<div align="left">
+<div align="center">
 
 <table>
     <tr>
-    <td align="left">
+  <td align="center">
             <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-1.svg" width="220" alt="Graphic Design 1" title="Graphic Design 1" /></a>
             <br /><sub>Graphic Design 1</sub>
         </td>
-    <td align="left">
+  <td align="center">
             <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-2.svg" width="220" alt="Graphic Design 2" title="Graphic Design 2" /></a>
             <br /><sub>Graphic Design 2</sub>
         </td>
-    <td align="left">
+  <td align="center">
             <a href="certificates/docs/grafikdesigner-2022.pdf"><img src="assets/design/thumb-3.svg" width="220" alt="Graphic Design 3" title="Graphic Design 3" /></a>
             <br /><sub>Graphic Design 3</sub>
         </td>
@@ -259,19 +258,19 @@ _Dashboard_
 <a id="webdesign-en"></a>
 ## 🌐 Web Design – Gallery
 
-<div align="left">
+<div align="center">
 
 <table>
     <tr>
-  <td align="left">
+  <td align="center">
             <a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-1.svg" width="220" alt="Web Design 1" title="Web Design 1" /></a>
             <br /><sub>Web Design 1</sub>
         </td>
-  <td align="left">
+  <td align="center">
             <a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-2.svg" width="220" alt="Web Design 2" title="Web Design 2" /></a>
             <br /><sub>Web Design 2</sub>
         </td>
-  <td align="left">
+  <td align="center">
             <a href="certificates/docs/webdesigner-2024.pdf"><img src="assets/webdesign/thumb-3.svg" width="220" alt="Web Design 3" title="Web Design 3" /></a>
             <br /><sub>Web Design 3</sub>
         </td>
@@ -296,7 +295,7 @@ _Dashboard_
 <a id="stats-en"></a>
 ## 📈 GitHub Stats
 
-<div align="left">
+<div align="center">
 
 <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Velichka81&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
 <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velichka81&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=86400" />
