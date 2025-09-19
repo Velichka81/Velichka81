@@ -1,7 +1,7 @@
 <div align="left">
 
 <br />
-<div align="left" style="margin-bottom:18px;font-size:1.1em;">
+<div align="center" style="margin-bottom:18px;font-size:1.1em;">
 🌍 <strong>Доступно на:</strong>
 <a href="README.md">Deutsch</a> |
 <a href="README.en.md">English</a> |
@@ -13,7 +13,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
 <img src="assets/banner/animated-banner.svg" alt="Анимированный баннер" width="100%"/>
 
@@ -96,7 +96,7 @@
 <a id="techstack-ru"></a>
 ## 🛠️ Технологии
 
-<div align="left">
+<div align="center">
 
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -123,7 +123,7 @@
 <a id="projects-ru"></a>
 ## 🚀 Проекты (выбор)
 
-<div align="left">
+<div align="center">
 
 <table>
     <tr>
@@ -162,7 +162,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
 <table>
     <tr>

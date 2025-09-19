@@ -1,7 +1,7 @@
 <div align="left">
 
 <br />
-<div align="left" style="margin-bottom:18px;font-size:1.1em;">
+<div align="center" style="margin-bottom:18px;font-size:1.1em;">
 🌍 <strong>Available in:</strong>
 <a href="README.md">Deutsch</a> |
 <strong>English</strong> |
@@ -13,7 +13,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
 <img src="assets/banner/animated-banner.svg" alt="Animated Banner" width="100%"/>
 
@@ -96,7 +96,7 @@ IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Gr
 <a id="techstack-en"></a>
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 <!-- Languages -->
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -128,7 +128,7 @@ IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Gr
 <a id="projects-en"></a>
 ## 🚀 Projects (Selection)
 
-<div align="left">
+<div align="center">
 
 <table>
     <tr>
@@ -167,7 +167,7 @@ IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Gr
 
 </div>
 
-<div align="left">
+<div align="center">
 
 <table>
     <tr>
