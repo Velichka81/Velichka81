@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="assets/banner/animated-banner-en.svg" alt="Animated Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Velichka81/Velichka81/main/assets/banner/animated-banner-en.svg?v=20260605" alt="Animated Banner" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Velichka81&style=for-the-badge&color=0e75b6)](https://github.com/Velichka81)
 [![Follow](https://img.shields.io/github/followers/Velichka81?logo=github&style=for-the-badge)](https://github.com/Velichka81?tab=followers)
@@ -24,15 +24,19 @@
 </div>
 
 <div align="center">
-    IT Specialist AE (Retraining) · Unity/C# · Web (PHP/JS/SQL) · Fullstack · Graphic Design · Stuttgart
+  Velichka Atanasova · Aspiring IT Specialist for Application Development | AI-FIRST Development | Web Development | SaaS Projects
 </div>
 
 <a id="overview-en"></a>
 ## 🧭 Overview
-- Retraining: IT Specialist for Application Development (IHK Stuttgart)
-- Focus: Unity Game Dev, Web Development (PHP, JavaScript, SQL)
-- Languages & Tools: C#, Java, Python, PHP, JavaScript, SQL
-- Approach: clean code, test-driven, pragmatic, user-centered
+
+**Profile:** I am an aspiring IT specialist for application development with a background in web design and graphic design. My focus is on modern web development, AI-powered applications, SaaS projects, and practical software engineering. I actively use AI to support planning, code comprehension, debugging, refactoring, documentation, and structured development.
+
+- Training: Aspiring IT Specialist for Application Development (IHK Stuttgart)
+- Focus: AI-FIRST Development, modern web development, SaaS, and AI-powered applications
+- Practice: Own SaaS and client projects with clear structure and documented workflows
+- Work style: AI-assisted planning, debugging, refactoring, and clean documentation
+- Background: Web design and graphic design for consistent UI/UX and clear communication
 
 ## 📚 Table of Contents
 
@@ -45,11 +49,12 @@
 
 <table style="border-collapse:collapse;margin:0;width:100%;table-layout:auto;">
 	<tr>
-<td align="left" style="padding:0 8px; vertical-align: top;">
+		<td align="left" style="padding:0 8px; vertical-align: top;">
 		  <ul style="list-style:none; padding:0; margin:0; white-space:nowrap;">
-            <li>🧭 <a href="#overview-en">Overview</a></li>
+		    <li>🧭 <a href="#overview-en">Overview</a></li>
 		    <li>🎯 <a href="#focus-en">Focus Areas</a></li>
-		    <li>📸 <a href="#screenshots-en">Screenshots</a></li>
+		    <li>🧪 <a href="#current-focus">Current Focus</a></li>
+		    <li>📸 <a href="#screenshots">Screenshots</a></li>
 		    <li>🛠️ <a href="#techstack-en">Tech Stack</a></li>
 		  </ul>
 		</td>
@@ -57,10 +62,13 @@
 		  <ul style="list-style:none; padding:0; margin:0; white-space:nowrap;">
 		    <li>🚀 <a href="#projects-en">Projects (Selection)</a>
 		      <ul style="list-style:none; padding-left:0.75rem; margin:6px 0 0 0; white-space:nowrap;">
-		        <li>🎮 <a href="#arcadia-en">Project Arcadia</a></li>
-		        <li>🎵 <a href="#lyritune-en">LyriTune</a></li>
-		        <li>📚 <a href="#skillforge-en">SkillForge</a></li>
-		        <li>⏱️ <a href="#zeiterfassung-en">Time Tracking</a></li>
+		        <li>🤖 <a href="#business-ai-hub">Business AI Hub</a></li>
+		        <li>💬 <a href="#voveliva">VOVELIVA</a></li>
+		        <li>🌐 <a href="#veli-webdesign">Veli Webdesign</a></li>
+		        <li>🧩 <a href="#veli-workflow">Veli Workflow</a></li>
+		        <li>🏗️ <a href="#venkov-stroi">Venkov Stroi</a></li>
+		        <li>🚀 <a href="#next-layer-ai">Next Layer AI Platform</a></li>
+		        <li>🎮 <a href="#labyrinth">Labyrinth (optional)</a></li>
 		      </ul>
 		    </li>
 		  </ul>
@@ -91,7 +99,12 @@
 
 <div align="center">
 
-[![Graphic Design](https://img.shields.io/badge/Graphic%20Design-8A2BE2?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](#)
+[![AI-FIRST Development](https://img.shields.io/badge/AI--FIRST%20Development-0E75B6?style=for-the-badge)](#)
+[![Web Development](https://img.shields.io/badge/Web%20Development-0DB7ED?style=for-the-badge)](#)
+[![SaaS](https://img.shields.io/badge/SaaS-4CAF50?style=for-the-badge)](#)
+[![AI-Powered Apps](https://img.shields.io/badge/AI--Powered%20Apps-FF6F00?style=for-the-badge)](#)<br />
+
+[![Web Design](https://img.shields.io/badge/Web%20Design-8A2BE2?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](#)
 [![Frontend](https://img.shields.io/badge/Frontend-FF6F00?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Backend](https://img.shields.io/badge/Backend-0DB7ED?style=for-the-badge&logo=serverless&logoColor=white)](#)
 [![Fullstack](https://img.shields.io/badge/Fullstack-4CAF50?style=for-the-badge&logo=stackshare&logoColor=white)](#)<br />
@@ -108,9 +121,23 @@
 
 </div>
 
+<a id="current-focus"></a>
+## 🧪 Current Focus
+
+- Continue learning React, Node.js, GraphQL, and MongoDB
+- Improve the AI-FIRST workflow
+- Further develop Business AI Hub
+- Build modern web and SaaS projects
 
 <a id="techstack-en"></a>
 ## 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, TypeScript (Basics), React (Basics)
+- Backend / Data: Python, FastAPI (Basics), PHP, SQL, REST API, Databases
+- Mobile / Apps: Flutter (Basics)
+- Other Technologies: Java, C#, Unity
+- Design: Adobe Creative Suite, UI/UX fundamentals, Web Design
+- Tools: VS Code, GitHub, AI-assisted development tools
 
 <div align="center">
 
@@ -118,14 +145,18 @@
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -140,104 +171,108 @@
 
 <div align="center">
 
-<table>
-    <tr>
-  <td width="33%" align="center">
-            <a href="Labyrinth-Echo-of-the-Shards/"><img src="assets/projects/thumb-arcadia.png" width="260" alt="Project Arcadia Thumbnail" title="Project Arcadia – Unity/C#" /></a>
-            <br />
-            <strong><a href="Labyrinth-Echo-of-the-Shards/">🎮 Project Arcadia</a></strong>&nbsp;<img alt="Featured" src="https://img.shields.io/badge/Featured-%E2%AD%90-FFD700?style=flat-square&labelColor=333&color=FFD700" />
-            <br />
-            <sub>Procedural levels, lightweight ECS, focus on game feel.</sub><br />
-            <sub><em>Unity · C# · ScriptableObjects · Prototype/Vertical Slice</em></sub><br/>
-            <img alt="Status" src="https://img.shields.io/badge/status-prototype-blue?style=flat-square" />
-            <img alt="Unity" src="https://img.shields.io/badge/engine-Unity-000?style=flat-square&logo=unity&logoColor=white" />
-            <img alt="C#" src="https://img.shields.io/badge/lang-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        </td>
-  <td width="33%" align="center">
-            <a href="#lyritune-en"><img src="assets/projects/thumb-lyritune.svg" width="260" alt="LyriTune Thumbnail" title="LyriTune – Text to Song (WIP)" /></a>
-            <br />
-            <strong><a href="#lyritune-en">🎵 LyriTune (Text‑to‑Song)</a></strong><br />
-            <sub>Turns text into melodies; initial audio generation integrated.</sub><br />
-            <sub><em>Python · Web (API/Frontend) · DSP · MVP in progress</em></sub><br/>
-            <img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
-            <img alt="Python" src="https://img.shields.io/badge/lang-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        </td>
-  <td width="33%" align="center">
-            <a href="https://github.com/Velichka81/learn-platform"><img src="assets/projects/thumb-skillforge.png" width="260" alt="SkillForge Thumbnail" title="SkillForge – Learn Platform" /></a>
-            <br />
-            <strong><a href="https://github.com/Velichka81/learn-platform">📚 SkillForge (IT learning platform)</a></strong><br />
-            <sub>AE focus with quizzes & exercises, clean REST interfaces.</sub><br />
-            <sub><em>PHP · JavaScript · SQL · REST · Backend/DB design</em></sub><br/>
-            <img alt="Stars" src="https://img.shields.io/github/stars/Velichka81/learn-platform?style=flat-square&cacheSeconds=43200" />
-            <img alt="License" src="https://img.shields.io/badge/license-TBD-lightgrey?style=flat-square" />
-            <img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
-        </td>
-    </tr>
+<table style="width:100%; max-width:1100px;">
+  <tr>
+    <td width="300" align="center">
+      <img src="assets/projects/thumb-business-ai-hub.png" width="300" alt="Business AI Hub Thumbnail" title="Business AI Hub" />
+    </td>
+    <td align="left">
+      <a id="business-ai-hub"></a>
+      <strong>🤖 Business AI Hub</strong>
+      <img alt="Status" src="https://img.shields.io/badge/status-Active%20%26%20Live-2ea44f?style=flat-square" />
+      <br />
+      <sub>Own SaaS project for AI-powered document analysis with upload, AI analysis, structured results, history, PDF export, module and licensing logic.</sub><br />
+      <sub><em>SaaS · AI Analysis · Web Development · Backend/API · Documentation</em></sub><br />
+      <a href="https://www.business-ai-hub.net">https://www.business-ai-hub.net</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <img src="assets/projects/thumb-voveliva.png" width="100" alt="VOVELIVA Thumbnail" title="VOVELIVA" />
+    </td>
+    <td align="left">
+      <a id="voveliva"></a>
+      <strong>💬 VOVELIVA</strong>
+      <img alt="Status" src="https://img.shields.io/badge/status-In%20Development-orange?style=flat-square" />
+      <br />
+      <sub>Private-first messenger app with login, chat list, messages, image messages, voice messages, and multilingual support.</sub><br />
+      <sub><em>Flutter · FastAPI · Auth · Messaging · Multilingual</em></sub><br />
+      <span>No public link</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <img src="assets/projects/thumb-veli-webdesign.png" width="300" alt="Veli Webdesign Thumbnail" title="Veli Webdesign" />
+    </td>
+    <td align="left">
+      <a id="veli-webdesign"></a>
+      <strong>🌐 Veli Webdesign</strong>
+      <img alt="Status" src="https://img.shields.io/badge/status-Active%20%26%20Live-2ea44f?style=flat-square" />
+      <br />
+      <sub>Own web design and client projects with modern responsive websites, landing pages, UI/UX foundations, and clean frontend implementation.</sub><br />
+      <sub><em>HTML · CSS · JavaScript · UI/UX · Responsive Design</em></sub><br />
+      <a href="https://www.veli-webdesign.com">https://www.veli-webdesign.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <img src="assets/projects/thumb-veli-workflow.png" width="300" alt="Veli Workflow Thumbnail" title="Veli Workflow" />
+    </td>
+    <td align="left">
+      <a id="veli-workflow"></a>
+      <strong>🧩 Veli Workflow</strong>
+      <img alt="Status" src="https://img.shields.io/badge/status-Active%20%26%20Live-2ea44f?style=flat-square" />
+      <br />
+      <sub>Own project and workflow platform to present software, web design, and AI projects.</sub><br />
+      <sub><em>Web · Project Structure · Branding · Workflow · Platform</em></sub><br />
+      <a href="https://www.veli-workflow.com">https://www.veli-workflow.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <img src="assets/projects/thumb-venkov-stroi.png" width="300" alt="Venkov Stroi Thumbnail" title="Venkov Stroi" />
+    </td>
+    <td align="left">
+      <a id="venkov-stroi"></a>
+      <strong>🏗️ Venkov Stroi</strong>
+      <img alt="Status" src="https://img.shields.io/badge/status-Active%20%26%20Live-2ea44f?style=flat-square" />
+      <br />
+      <sub>Client project for a Bulgarian construction company with service pages, project section, gallery, team page, contact form, and basic SEO.</sub><br />
+      <sub><em>Web Design · Responsive Design · Client Project · Basic SEO</em></sub><br />
+      <a href="https://www.venkov-stroi.com">https://www.venkov-stroi.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <img src="assets/projects/thumb-next-layer-ai-platform.png" width="300" alt="Next Layer AI Platform Thumbnail" title="Next Layer AI Platform" />
+    </td>
+    <td align="left">
+      <a id="next-layer-ai"></a>
+      <strong>🚀 Next Layer AI Platform</strong>
+      <img alt="Status" src="https://img.shields.io/badge/status-Active%20%26%20Live-2ea44f?style=flat-square" />
+      <br />
+      <sub>Platform for showcasing and organizing multiple AI/SaaS tools and landing pages.</sub><br />
+      <sub><em>AI/SaaS · Landing Pages · Tool Overview · Web Structure · SEO</em></sub><br />
+      <a href="https://www.next-layer-ai-platform.com">https://www.next-layer-ai-platform.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <img src="assets/projects/thumb-labilinth.png" width="300" alt="Labyrinth: Echo of the Shards Thumbnail" title="Labyrinth: Echo of the Shards" />
+    </td>
+    <td align="left">
+      <a id="labyrinth"></a>
+      <strong>🎮 Labyrinth: Echo of the Shards</strong>
+      <img alt="Status" src="https://img.shields.io/badge/status-In%20Development-orange?style=flat-square" />
+      <br />
+      <sub>Unity/C# game project with labyrinth mechanics, enemies, traps, key systems, and procedural elements.</sub><br />
+      <sub><em>Unity · C# · Game Development · Procedural Levels · Learning Project</em></sub><br />
+      <a href="Labyrinth-Echo-of-the-Shards/">Labyrinth-Echo-of-the-Shards/</a>
+    </td>
+  </tr>
 </table>
 
 </div>
-
-<div align="center">
-
-<table>
-    <tr>
-  <td width="33%" align="center">
-            <a href="https://github.com/Velichka81/Zeiterfassung"><img src="assets/projects/thumb-zeiterfassung.png" width="260" alt="Time Tracking Thumbnail" title="Time Tracking" /></a>
-            <br />
-            <strong><a href="https://github.com/Velichka81/Zeiterfassung">⏱️ Time Tracking</a></strong><br />
-            <sub>Simple, clear tool for recording working hours.</sub><br />
-            <sub><em>PHP · JavaScript · SQL · REST</em></sub><br/>
-            <img alt="Status" src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" />
-        </td>
-    </tr>
-</table>
-
-</div>
-
-### <a id="arcadia-en"></a>🎮 Project Arcadia
-
-An experimental Unity prototype with procedural levels, a lightweight ECS approach, and a focus on precise game feel. Goal: clean architecture and fast iteration.
-
-➡️ Go to the Unity project: [Labyrinth – Echo of the Shards](Labyrinth-Echo-of-the-Shards/)
-
-### <a id="lyritune-en"></a>🎵 LyriTune (Text‑to‑Song)
-
-Converts short texts into simple melodies. Initial DSP building blocks and a small web API are in progress. Demos and source code will be linked here as soon as available.
-
-### <a id="skillforge-en"></a>📚 SkillForge (IT learning platform)
-
-Learning platform focused on AE topics: modular concept, quiz engine, and clean REST interfaces. I am currently designing the data model and first endpoints. More info soon.
-
-➡️ Repository: [SkillForge – Learn Platform](https://github.com/Velichka81/learn-platform)
-
-### <a id="zeiterfassung-en"></a>⏱️ Time Tracking
-
-A focused time tracking tool with a clear UI. Goal: fast input, clear evaluations, and simple export options.
-
-➡️ Repository: [Time Tracking](https://github.com/Velichka81/Zeiterfassung)
-
-<a id="screenshots-en"></a>
-## 📸 Screenshots
-
-Below are a few impressions of the projects. One image per row with a short caption.
-
-![Project Arcadia – Gameplay](assets/projects/thumb-arcadia.png "Project Arcadia – Gameplay")
-_Gameplay_
-
-<hr style="opacity:.25;margin:16px 0 20px;" />
-
-![LyriTune – UI](assets/projects/thumb-lyritune.svg "LyriTune – UI")
-_UI_
-
-<hr style="opacity:.25;margin:16px 0 20px;" />
-
-![SkillForge – Dashboard](assets/projects/thumb-skillforge.png "SkillForge – Dashboard")
-_Dashboard_
-
-<hr style="opacity:.25;margin:16px 0 20px;" />
-
-![Time Tracking – Dashboard](assets/projects/thumb-zeiterfassung.png "Time Tracking – Dashboard")
-_Dashboard_
 
 <a id="design-en"></a>
 ## 🎨 Graphic Design – Gallery
@@ -264,7 +299,7 @@ _Dashboard_
 
 </div>
 
-> Tip: Also check out the sub‑project in this repo: `Labyrinth-Echo-of-the-Shards/`.
+> Tip: Also check out the sub-project in this repo: `Labyrinth-Echo-of-the-Shards/`.
 
 <a id="webdesign-en"></a>
 ## 🌐 Web Design – Gallery
@@ -297,7 +332,7 @@ _Dashboard_
 - 🏆 Graphic Designer (2022)
 - 🖌️ Computer Graphic Artist (2023)
 - 💻 Web Designer (2024)
-- 👨‍💻 IT Specialist Application Development (ongoing since 2024, IHK Stuttgart)
+- 👩‍💻 IT Specialist Application Development (since 2024, IHK Stuttgart)
 - 🐍 Python Basics & SQL (2025)
 - 📈 Scrum (2025)
 
@@ -318,13 +353,18 @@ _Dashboard_
 <a id="contact-en"></a>
 ## 🤝 Contact
 
-- 📫 Email: velichka811@abv.bg
+- 📫 Email: velichka811@gmail.com
+- 🌐 Website: https://www.veli-webdesign.com
+- 🧩 Workflow: https://www.veli-workflow.com
 - 💼 LinkedIn: https://www.linkedin.com/in/velichka-atanasova-32781a227
+- 🧑‍💻 GitHub: https://github.com/Velichka81
 - 📍 Location: Stuttgart, Germany
 
 <div align="left">
 
-[![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:velichka811@abv.bg)
+[![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:velichka811@gmail.com)
+[![Website](https://img.shields.io/badge/Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.veli-webdesign.com)
+[![Workflow](https://img.shields.io/badge/Workflow-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)](https://www.veli-workflow.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velichka-atanasova-32781a227)
 
 [![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Velichka81?tab=repositories)

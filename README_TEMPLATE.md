@@ -4,60 +4,99 @@ Kurze Projektbeschreibung in 1–2 Sätzen: Was macht es, für wen ist es, warum
 
 ---
 
+## Status
+
+Aktueller Status:
+- Aktiv & Live
+- In Development
+- Lernprojekt
+- Kundenprojekt
+- Archiviert
+
+## Live-Demo / Website
+
+- Live: [Projekt ansehen](https://example.com)
+- Repository: [GitHub Repo](https://github.com/username/project)
+
+## Überblick
+
+- Was macht das Projekt?
+- Für wen ist es gedacht?
+- Welches Problem löst es?
+- Warum ist es nützlich?
+
 ## ✨ Features
-- [ ] Kurzer, prägnanter Feature‑Punkt
-- [ ] Wichtige Fähigkeit/Funktion
-- [ ] Optional: USP/Alleinstellungsmerkmal
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## 🛠️ Tech-Stack
+
+Frontend:
+- HTML / CSS / JavaScript / React / Flutter etc.
+
+Backend:
+- Python / FastAPI / Node.js / PHP etc.
+
+Datenbank:
+- SQL / SQLite / MongoDB etc.
+
+Tools:
+- VS Code / GitHub / AI Tools / Deployment etc.
 
 ## 🖼️ Screenshots
-Platziere Bilder/GIFs im Ordner `media/` und verlinke sie relativ.
+
+Bilder bitte im Ordner `media/` oder `assets/` speichern und relativ verlinken.
 
 ```markdown
-![Screenshot 1](media/screenshot-01.png)
-![Screenshot 2](media/screenshot-02.png)
-![Demo GIF](media/demo.gif)
+![Screenshot](media/screenshot-01.png)
 ```
 
-## 🚀 Installation & Quickstart
+## 🚀 Installation / Quickstart
 
-Voraussetzungen (Beispiele anpassen):
-- Node.js >= 18 / Python >= 3.11 / Unity 6 / Java 17
-- Git, VS Code/Rider/IDE deiner Wahl
+Voraussetzungen:
+- Node.js / Python / Flutter / Unity / Java usw.
 
 Schritte:
-1. Repository klonen oder herunterladen
-2. Abhängigkeiten installieren (z. B. `npm install` / `pip install -r requirements.txt`)
-3. Entwicklung starten (z. B. `npm run dev` / `python app.py` / Unity: Szene öffnen und ▶)
+1. Repository klonen
+2. Abhängigkeiten installieren
+3. Projekt starten
 
-Konfiguration (optional):
-- `.env` anlegen, Werte wie `API_KEY`, `DATABASE_URL` setzen
-- Weitere Settings/Flags dokumentieren
+## Konfiguration
+
+Beispiel:
+- `.env`-Datei anlegen
+- `API_KEY` setzen
+- `DATABASE_URL` setzen
 
 ## 🧪 Tests
-- Unit/Integration Tests ausführen
-- Beispiel: `npm test` / `pytest` / `dotnet test`
-- Coverage und wichtige Testfälle kurz beschreiben
+
+- Wie werden Tests gestartet?
+- Welche wichtigen Testfälle gibt es?
 
 ## 🗺️ Roadmap
-- [ ] Geplantes Feature A
-- [ ] Verbesserung B
-- [ ] Plattform/Deployment C
 
-## 🤝 Contribution
-Beiträge sind willkommen! Bitte:
-1. Issue eröffnen und Idee/Fehler beschreiben
-2. Fork erstellen, Branch anlegen (`feat/…` oder `fix/…`)
-3. Klaren PR mit Beschreibung und Screenshots erstellen
-4. Code‑Style, Linting und Tests beachten
+- [ ] Geplantes Feature 1
+- [ ] Verbesserung 2
+- [ ] Deployment / Erweiterung
 
-Guidelines (optional): `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`
+## 🤖 AI-FIRST Workflow (optional)
 
-## 📄 Lizenz
-Dieses Projekt steht unter der MIT‑Lizenz (oder anpassen). Siehe `LICENSE` für Details.
+Falls das Projekt mit KI-Unterstützung entwickelt wurde:
+- Planung mit KI
+- Code-Verständnis
+- Fehlersuche
+- Refactoring-Ideen
+- Dokumentation
+- Testideen
 
----
+Wichtig: KI-Ergebnisse werden geprüft und nicht blind übernommen.
 
-Tipps:
-- Nutze Badges (CI, Coverage, Version)
-- Halte das README knapp, verlinke Details in Wiki/Docs
-- Ergänze Demo‑Links und Live‑Previews, wenn verfügbar
+## Contribution
+
+Beiträge sind willkommen, wenn das Projekt öffentlich offen ist.
+
+## Lizenz
+
+Dieses Projekt steht unter der MIT-Lizenz, falls nicht anders angegeben.
